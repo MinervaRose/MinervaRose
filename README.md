@@ -51,12 +51,13 @@ which strongly shapes how I approach computational systems and learning design.
 
 ## Current Direction
 
-My current work explores how AI systems can assist human reasoning in uncertainty-heavy scientific and operational environments.
+My current work focuses on modular AI systems, computational workflows,
+and human-centered approaches to complex technical problems.
 
 This includes:
 - exploratory AI pipelines
-- anomaly triage systems
-- mission-oriented decision support
+- AI-assisted analysis and decision-support systems
+- operational AI workflows
 - human-in-the-loop architectures
 - representation and visualization systems
 - computational workflows for discovery and learning
@@ -106,7 +107,7 @@ human-in-the-loop systems • exploratory computational frameworks
 ```
 ---
 
-##Research & Publications
+## Research & Publications
 
 Ongoing projects are progressively documented through:
 
