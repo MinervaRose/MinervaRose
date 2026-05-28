@@ -4,9 +4,11 @@
 
 ### AI Systems • Technical Education • Exploratory Computation
 
+*MSc Artificial Intelligence (First Class Honours)*
+
 <img src="MY-CREST-IMAGE-SQUARE.png" width="340"/>
 
-![MSc AI](https://img.shields.io/badge/MSc-Artificial_Intelligence_(First_Class_Honours)-d81b60?style=for-the-badge)
+
 ![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Computational_Research-f48fb1?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
@@ -49,6 +51,18 @@ Most projects are developed as:
 - interactive computational prototypes
 
 My background combines AI, education, humanities, and creative practice, which strongly shapes my approach to systems design and learning.
+
+---
+
+## Systems Perspective
+
+```text
+           Curiosity
+                ↓
+Education ↔ AI Systems ↔ Research
+                ↓
+     Visualization & Human Understanding
+```
 
 ---
 
@@ -109,6 +123,17 @@ My teaching philosophy emphasizes:
 
 ---
 
+## Background
+
+### MSc Artificial Intelligence (First Class Honours)
+
+Additional training includes deep learning, reinforcement learning, computer vision,
+data science, AI for healthcare, and systems-oriented AI development.
+
+Training includes multiple advanced programs completed through Udacity scholarships and professional AI coursework.
+
+---
+
 ## Methods & Tooling
 
 ```text
@@ -116,6 +141,18 @@ Python • Jupyter • Gradio • LLM systems • signal analysis
 data visualization • modular AI pipelines • workflow orchestration
 human-in-the-loop systems • exploratory computational frameworks
 ```
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MinervaRose&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinervaRose&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</div>
+
 ---
 
 ## Research & Publications
@@ -139,4 +176,6 @@ Ongoing projects are progressively documented through:
 
 <div align="center">
 ✦ Curiositas ad Lucem ✦
+<img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
+  
 </div> 
