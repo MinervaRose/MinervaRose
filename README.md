@@ -168,9 +168,12 @@ Ongoing projects are progressively documented through:
 > 
 > Technology designed for human understanding.
 
+<div align="center">
+<img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
+</div> 
+
 
 <div align="center">
 ✦ Curiositas ad Lucem ✦
-<img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
   
 </div> 
