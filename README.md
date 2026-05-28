@@ -4,14 +4,15 @@
 
 ### AI Systems • Technical Education • Exploratory Computation
 
-![Python](https://img.shields.io/badge/Python-Systems_Engineering-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Research_Notebooks-f48fb1?style=for-the-badge&logo=jupyter&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Human_in_the_Loop-e91e63?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-Exploratory_Systems-c2185b?style=for-the-badge)
-![Education](https://img.shields.io/badge/Education-Mentoring_&_Learning-ad1457?style=for-the-badge)
+<img src="MY-CREST-IMAGE.png" width="340"/>
 
-Independent builder of modular AI systems, research-oriented computational prototypes,
-and mission-driven learning architectures.
+![MSc AI](https://img.shields.io/badge/MSc-Artificial_Intelligence_(First_Class_Honours)-d81b60?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Computational_Research-f48fb1?style=for-the-badge&logo=jupyter&logoColor=white)
+![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI-Modular_Systems-c2185b?style=for-the-badge)
+
+Builder of modular AI systems, educational technologies, and research-oriented computational frameworks.
 
 </div>
 
@@ -21,46 +22,54 @@ and mission-driven learning architectures.
 
 I work at the intersection of:
 - applied AI systems
-- exploratory computation
+- computational research
 - technical education
-- anomaly and uncertainty analysis
-- human-AI collaboration
+- data-driven workflows
+- visualization and exploratory analysis
+- human-centered system design
 
-My projects combine engineering, research, visualization, and pedagogy.
+My projects combine engineering, pedagogy, systems thinking, and scientific curiosity.
 
-Rather than focusing on a single narrow vertical, I design transferable computational frameworks that can adapt across domains such as:
+Rather than focusing on a single narrow domain, I design adaptable computational frameworks that can support a wide variety of applications across:
+- operational workflows
 - scientific exploration
-- aerospace-inspired systems
-- operational decision support
+- signal analysis
 - bioacoustics
-- physiological signals
-- educational AI
-- workflow orchestration
+- physiological systems
+- aerospace-inspired environments
+- decision-support systems
+- AI education
 
 Most projects are developed as:
 - reproducible Jupyter systems
 - modular Python architectures
-- research-style reports
-- educational artifacts
 - technical case studies
+- educational artifacts
+- research-oriented reports
+- interactive computational prototypes
 
-My background combines AI, education, humanities, and creative practice,
-which strongly shapes how I approach computational systems and learning design.
+My background combines AI, education, humanities, and creative practice, which strongly shapes my approach to systems design and learning.
 
 ---
 
-## Current Direction
+## Current Work
 
-My current work focuses on modular AI systems, computational workflows,
-and human-centered approaches to complex technical problems.
+My current work focuses on:
+- modular AI workflows
+- educational AI systems
+- computational experimentation
+- data visualization and representation
+- AI-assisted analysis and decision support
+- human-in-the-loop computational systems
 
-This includes:
-- exploratory AI pipelines
-- AI-assisted analysis and decision-support systems
-- operational AI workflows
-- human-in-the-loop architectures
-- representation and visualization systems
-- computational workflows for discovery and learning
+I am particularly interested in designing AI systems that remain:
+- interpretable
+- modular
+- educational
+- adaptable
+- operationally useful
+
+across complex real-world environments.
 
 ---
 
@@ -82,19 +91,21 @@ This includes:
 Alongside technical development, I work extensively in mentoring and education.
 
 I have supported learners across:
-- AI and machine learning
+- artificial intelligence
+- machine learning
 - Python programming
 - data science workflows
 - project architecture
 - portfolio development
 - technical communication
 
-My approach emphasizes:
+My teaching philosophy emphasizes:
 - operational understanding over memorization
+- systems thinking
 - modular reasoning
-- real-world project construction
 - scientific curiosity
-- transferable systems thinking
+- real-world project construction
+- transferable technical skills
 
 ---
 
@@ -119,6 +130,13 @@ Ongoing projects are progressively documented through:
   
 ---
 
+## Philosophy
+
+> Curiosity guided by structure.
+> Exploration grounded in rigor.
+> Technology designed for human understanding.
+
+
 <div align="center">
-✦ Exploration requires structure ✦
+✦ Curiositas ad Lucem ✦
 </div> 
