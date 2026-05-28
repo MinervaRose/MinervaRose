@@ -2,7 +2,7 @@
 
 # 🌌 MinervaRose
 
-### AI Systems • Technical Education • Exploratory Computation
+### AI Systems • Applied Computational Research • Technical Education
 
 *MSc Artificial Intelligence (First Class Honours)*
 
@@ -15,6 +15,9 @@
 ![AI Systems](https://img.shields.io/badge/AI-Modular_Systems-c2185b?style=for-the-badge)
 
 Builder of modular AI systems, educational technologies, and research-oriented computational frameworks.
+
+Currently open to selected collaborations, consulting, mentoring,
+and applied AI education opportunities.
 
 </div>
 
@@ -33,6 +36,7 @@ I work at the intersection of:
 My projects combine engineering, pedagogy, systems thinking, and scientific curiosity.
 
 Rather than focusing on a single narrow domain, I design adaptable computational frameworks that can support a wide variety of applications across:
+
 - operational workflows
 - scientific exploration
 - signal analysis
@@ -42,7 +46,8 @@ Rather than focusing on a single narrow domain, I design adaptable computational
 - decision-support systems
 - AI education
 
-Most projects are developed as:
+Projects are typically developed as:
+
 - reproducible Jupyter systems
 - modular Python architectures
 - technical case studies
@@ -73,8 +78,8 @@ My current work focuses on:
 - educational AI systems
 - computational experimentation
 - data visualization and representation
-- AI-assisted analysis and decision support
-- human-in-the-loop computational systems
+- AI-assisted analysis
+- human-centered computational systems
 
 I am particularly interested in designing AI systems that remain:
 - interpretable
@@ -143,18 +148,6 @@ human-in-the-loop systems • exploratory computational frameworks
 ```
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MinervaRose&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinervaRose&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</div>
-
----
-
 ## Research & Publications
 
 Ongoing projects are progressively documented through:
@@ -170,7 +163,9 @@ Ongoing projects are progressively documented through:
 ## Philosophy
 
 > Curiosity guided by structure.
+> 
 > Exploration grounded in rigor.
+> 
 > Technology designed for human understanding.
 
 
