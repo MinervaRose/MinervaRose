@@ -4,7 +4,7 @@
 
 ### AI Systems • Technical Education • Exploratory Computation
 
-<img src="MY-CREST-IMAGE.png" width="340"/>
+<img src="MY-CREST-IMAGE-SUQARE.png" width="340"/>
 
 ![MSc AI](https://img.shields.io/badge/MSc-Artificial_Intelligence_(First_Class_Honours)-d81b60?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
