@@ -147,7 +147,7 @@ human-in-the-loop systems • exploratory computational frameworks
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MinervaRose&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MinervaRose&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinervaRose&layout=compact&theme=rose_pine&hide_border=true"/>
 
