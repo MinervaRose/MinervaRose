@@ -6,7 +6,7 @@
 
 *MSc Artificial Intelligence (First Class Honours)*
 
-<img src="MY-CREST-IMAGE-SQUARE.png" width="340"/>
+<img src="MY-CREST-IMAGE-SQUARE.png" width="300"/>
 
 
 ![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
@@ -26,36 +26,18 @@ and applied AI education opportunities.
 ## About
 
 I work at the intersection of:
-- applied AI systems
-- computational research
-- technical education
-- data-driven workflows
-- visualization and exploratory analysis
-- human-centered system design
 
-My projects combine engineering, pedagogy, systems thinking, and scientific curiosity.
+* AI systems
+* applied computational research
+* data-driven workflows
+* visualization and exploratory analysis
+* technical education
 
-Rather than focusing on a single narrow domain, I design adaptable computational frameworks that can support a wide variety of applications across:
+My projects focus on modular Python architectures, operational workflows, exploratory computational systems, and human-centered AI design.
 
-- operational workflows
-- scientific exploration
-- signal analysis
-- bioacoustics
-- physiological systems
-- aerospace-inspired environments
-- decision-support systems
-- AI education
+Areas of interest include anomaly analysis, scientific exploration, decision-support systems, bioacoustics, and AI-assisted learning systems.
 
-Projects are typically developed as:
-
-- reproducible Jupyter systems
-- modular Python architectures
-- technical case studies
-- educational artifacts
-- research-oriented reports
-- interactive computational prototypes
-
-My background combines AI, education, humanities, and creative practice, which strongly shapes my approach to systems design and learning.
+Projects are typically developed as reproducible notebooks, modular pipelines, technical reports, and research-oriented prototypes.
 
 ---
 
@@ -68,27 +50,28 @@ Education ↔ AI Systems ↔ Research
                 ↓
      Visualization & Human Understanding
 ```
+---
 
+## Methods & Tooling
+
+```text
+Python • Jupyter • Gradio • LLM systems • signal analysis
+data visualization • modular AI pipelines • workflow orchestration
+human-in-the-loop systems • exploratory computational frameworks
+```
 ---
 
 ## Current Work
 
-My current work focuses on:
-- modular AI workflows
-- educational AI systems
-- computational experimentation
-- data visualization and representation
-- AI-assisted analysis
-- human-centered computational systems
+Current work focuses on:
 
-I am particularly interested in designing AI systems that remain:
-- interpretable
-- modular
-- educational
-- adaptable
-- operationally useful
+* modular AI workflows
+* exploratory computational systems
+* AI-assisted analysis
+* educational AI systems
+* data visualization and representation
 
-across complex real-world environments.
+Particular interest in interpretable, governed, and human-centered AI architectures operating under uncertainty.
 
 ---
 
@@ -107,24 +90,14 @@ across complex real-world environments.
 
 ## Teaching & Mentoring
 
-Alongside technical development, I work extensively in mentoring and education.
+Alongside technical development, I actively mentor learners in:
 
-I have supported learners across:
-- artificial intelligence
-- machine learning
-- Python programming
-- data science workflows
-- project architecture
-- portfolio development
-- technical communication
+* AI and machine learning
+* Python and data workflows
+* project architecture
+* technical communication
 
-My teaching philosophy emphasizes:
-- operational understanding over memorization
-- systems thinking
-- modular reasoning
-- scientific curiosity
-- real-world project construction
-- transferable technical skills
+My teaching approach emphasizes systems thinking, operational understanding, modular reasoning, and real-world project construction.
 
 ---
 
@@ -132,20 +105,8 @@ My teaching philosophy emphasizes:
 
 ### MSc Artificial Intelligence (First Class Honours)
 
-Additional training includes deep learning, reinforcement learning, computer vision,
-data science, AI for healthcare, and systems-oriented AI development.
+Additional specialization includes deep learning, reinforcement learning, computer vision, data science, and AI for healthcare.
 
-Training includes multiple advanced programs completed through Udacity scholarships and professional AI coursework.
-
----
-
-## Methods & Tooling
-
-```text
-Python • Jupyter • Gradio • LLM systems • signal analysis
-data visualization • modular AI pipelines • workflow orchestration
-human-in-the-loop systems • exploratory computational frameworks
-```
 ---
 
 ## Research & Publications
@@ -159,14 +120,6 @@ Ongoing projects are progressively documented through:
 * exploratory computational notebooks
   
 ---
-
-## Philosophy
-
-> Curiosity guided by structure.
-> 
-> Exploration grounded in rigor.
-> 
-> Technology designed for human understanding.
 
 <div align="center">
 <img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
