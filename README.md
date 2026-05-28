@@ -6,7 +6,7 @@
 
 *MSc Artificial Intelligence (First Class Honours)*
 
-<img src="MY-CREST-IMAGE-SQUARE.png" width="300"/>
+<img src="MY-CREST-IMAGE-SQUARE.png" width="250"/>
 
 
 ![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
