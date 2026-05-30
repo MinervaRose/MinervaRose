@@ -74,6 +74,34 @@ Current work focuses on:
 Particular interest in interpretable, governed, and human-centered AI architectures operating under uncertainty.
 
 ---
+## Data Visualization & Decision Support
+
+In addition to AI systems and computational research, I develop data visualization artifacts designed to support exploration, prioritization, and decision-making.
+
+One recent example is an interactive Tableau dashboard focused on strategic AI technology monitoring, combining technology categorization, business value assessment, implementation effort, maturity indicators, and recommendation frameworks.
+
+<div align="center">
+
+<a href="https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="dashboard_screenshot.png" width="900"/>
+</a>
+
+</div>
+
+**Interactive Dashboard:**
+[View on Tableau Public](https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This project demonstrates the end-to-end workflow behind analytical dashboard development:
+
+* data preparation and structuring
+* KPI design and business metrics
+* exploratory and comparative visualization
+* dashboard composition and storytelling
+* executive-oriented decision support
+
+The objective is not merely to display data, but to transform information into actionable insight through clear visual communication.
+
+---
 
 ## Selected Projects
 
