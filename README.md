@@ -169,7 +169,7 @@ A three-project reinforcement learning portfolio covering:
 * Continuous Control with DDPG
 * Multi-Agent Reinforcement Learning (MADDPG)
 
-🔗 Repository: https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects
+🔗 Repository: [https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects)
 
 This work marked an early transition from traditional programming toward autonomous agents, decision systems, and AI architectures.
 
@@ -181,10 +181,17 @@ Following selection for the Facebook AI & PyTorch Scholarship Challenge, I was a
 
 The resulting project portfolio explores several major deep learning paradigms, including neural networks, computer vision, natural language processing, generative adversarial networks (GANs), and model deployment with Amazon SageMaker.
 
-🔗 Repository: https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects
+🔗 Repository: [https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects)
 
 This work represents an early milestone in my transition from traditional programming and data analysis toward modern AI systems and machine learning engineering.
 
+### Android Basics Nanodegree (Google Developer Scholarship)
+
+On November 6, 2017, I received a life-changing email. I was offered a seat in the Google Developer Scholarship Challenge hosted through Udacity.
+
+At the time, I had no background in computer science and no experience developing software professionally. What began as curiosity quickly became a passion for building technology and solving problems through code.
+
+🔗 Repository: [https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Android-Basics-Nanodegree-Projects)
 
 ---
 
