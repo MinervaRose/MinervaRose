@@ -149,6 +149,37 @@ Ongoing projects are progressively documented through:
   
 ---
 
+---
+
+## Milestones & Foundations
+
+Current projects build upon a longer learning journey spanning education, research, applied AI, and systems design.
+
+Selected milestones include:
+
+| Milestone                                                        | Year      |
+| ---------------------------------------------------------------- | --------- |
+| Deep Reinforcement Learning Nanodegree (Facebook AI Scholarship) | 2019      |
+| Deep Learning & PyTorch Scholarship Programs                     | 2018–2019 |
+| Android Basics Nanodegree (Google Scholarship)                   | 2018      |
+| MSc Artificial Intelligence (First Class Honours)                | 2026      |
+
+### Deep Reinforcement Learning Nanodegree
+
+A three-project reinforcement learning portfolio covering:
+
+* Deep Q-Networks (DQN)
+* Continuous Control with DDPG
+* Multi-Agent Reinforcement Learning (MADDPG)
+
+🔗 Repository: https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects
+
+This work marked an early transition from traditional programming toward autonomous agents, decision systems, and AI architectures.
+
+More recent projects build upon many of the concepts first explored there.
+
+---
+
 <div align="center">
 <img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
 </div> 
