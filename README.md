@@ -164,7 +164,7 @@ Selected milestones include:
 | Android Basics Nanodegree (Google Scholarship)                   | 2018      |
 | MSc Artificial Intelligence (First Class Honours)                | 2026      |
 
-### Deep Reinforcement Learning Nanodegree
+### Deep Reinforcement Learning Nanodegree (Facebook AI Scholarship)
 
 A three-project reinforcement learning portfolio covering:
 
@@ -177,6 +177,17 @@ A three-project reinforcement learning portfolio covering:
 This work marked an early transition from traditional programming toward autonomous agents, decision systems, and AI architectures.
 
 More recent projects build upon many of the concepts first explored there.
+
+### Deep Learning Nanodegree (Facebook AI Scholarship)
+
+Following selection for the Facebook AI & PyTorch Scholarship Challenge, I was awarded a full scholarship to the Udacity Deep Learning Nanodegree and graduated in 2019.
+
+The resulting project portfolio explores several major deep learning paradigms, including neural networks, computer vision, natural language processing, generative adversarial networks (GANs), and model deployment with Amazon SageMaker.
+
+🔗 Repository: https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects
+
+This work represents an early milestone in my transition from traditional programming and data analysis toward modern AI systems and machine learning engineering.
+
 
 ---
 
