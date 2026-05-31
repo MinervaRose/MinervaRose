@@ -118,14 +118,11 @@ The objective is not merely to display data, but to transform information into a
 
 ## Teaching & Mentoring
 
-Alongside technical development, I actively mentor learners in:
+Alongside technical development, I mentor learners in AI, data, and software projects.
 
-* AI and machine learning
-* Python and data workflows
-* project architecture
-* technical communication
+As an **OpenClassrooms mentor**, I help students develop technical skills, build portfolio projects, and communicate their work effectively.
 
-My teaching approach emphasizes systems thinking, operational understanding, modular reasoning, and real-world project construction.
+My teaching approach emphasizes systems thinking, practical problem-solving, and real-world project construction.
 
 ---
 
