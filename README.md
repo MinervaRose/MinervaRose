@@ -14,10 +14,11 @@
 ![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
 ![AI Systems](https://img.shields.io/badge/AI-Modular_Systems-c2185b?style=for-the-badge)
 
-Builder of modular AI systems, educational technologies, and research-oriented computational frameworks.
+Builder of AI systems, educational technologies, and exploratory computational tools.
 
-Currently open to selected collaborations, consulting, mentoring,
-and applied AI education opportunities.
+Driven by curiosity, I enjoy creating systems that help people learn, explore, visualize, and understand complex ideas.
+
+Currently open to selected collaborations, consulting, mentoring, and applied AI education opportunities.
 
 </div>
 
@@ -29,15 +30,15 @@ I work at the intersection of:
 
 * AI systems
 * applied computational research
-* data-driven workflows
+* education
 * visualization and exploratory analysis
-* technical education
+* human-centered technology
 
-My projects focus on modular Python architectures, operational workflows, exploratory computational systems, and human-centered AI design.
+My projects combine technical implementation, design, and learning experiences, often taking the form of AI systems, educational tools, scientific prototypes, interactive visualizations, and research-oriented computational frameworks.
 
-Areas of interest include anomaly analysis, scientific exploration, decision-support systems, bioacoustics, and AI-assisted learning systems.
+Areas of interest include scientific exploration, anomaly analysis, decision-support systems, bioacoustics, AI-assisted learning, and exploratory AI architectures operating under uncertainty.
 
-Projects are typically developed as reproducible notebooks, modular pipelines, technical reports, and research-oriented prototypes.
+Projects are typically developed as reproducible notebooks, modular pipelines, technical reports, educational artifacts, and research prototypes.
 
 ---
 
@@ -46,10 +47,11 @@ Projects are typically developed as reproducible notebooks, modular pipelines, t
 ```text
            Curiosity
                 ↓
-Education ↔ AI Systems ↔ Research
+Learning ↔ AI Systems ↔ Research
                 ↓
-     Visualization & Human Understanding
+     Visualization & Understanding
 ```
+
 ---
 
 ## Methods & Tooling
