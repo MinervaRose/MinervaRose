@@ -2,7 +2,7 @@
 
 # 🌌 MinervaRose
 
-### AI Systems • Applied Computational Research • Technical Education
+### AI Systems • Analytics & Visualization • Computational Research • Technical Education
 
 *MSc Artificial Intelligence (First Class Honours)*
 
@@ -57,30 +57,54 @@ Learning ↔ AI Systems ↔ Research
 ## Methods & Tooling
 
 ```text
-Python • Jupyter • Gradio • LLM systems • signal analysis
-data visualization • modular AI pipelines • workflow orchestration
-human-in-the-loop systems • exploratory computational frameworks
+Languages & Development
+Python • SQL • Jupyter • Git • GitHub
+
+AI & Machine Learning
+LLM Systems • Deep Learning • Computer Vision
+Agentic Workflows • Human-in-the-Loop AI
+
+Data & Analytics
+Tableau • Power BI • Data Visualization
+Exploratory Analysis • KPI Design • Decision Support
+
+Research & Exploration
+Signal Analysis • Computational Research
+Scientific Computing • Anomaly Detection
+
+Education & Communication
+Mentoring • Curriculum Design
+Educational Technology • Technical Writing
 ```
----
-
-## Current Work
-
-Current work focuses on:
-
-* modular AI workflows
-* exploratory computational systems
-* AI-assisted analysis
-* educational AI systems
-* data visualization and representation
-
-Particular interest in interpretable, governed, and human-centered AI architectures operating under uncertainty.
 
 ---
-## Data Visualization & Decision Support
 
-In addition to AI systems and computational research, I develop data visualization artifacts designed to support exploration, prioritization, and decision-making.
+## Areas of Practice
 
-One recent example is an interactive Tableau dashboard focused on strategic AI technology monitoring, combining technology categorization, business value assessment, implementation effort, maturity indicators, and recommendation frameworks.
+My work currently spans four complementary areas:
+
+### AI Systems
+
+Agentic workflows, decision-support systems, orchestration pipelines, LLM applications, and human-in-the-loop architectures.
+
+### Computational Research
+
+Exploratory computational frameworks, scientific investigation, anomaly analysis, and research-oriented prototype development.
+
+### Technical Education
+
+AI and data science mentoring, educational technologies, curriculum design, and project-based learning systems.
+
+### Analytics & Visualization
+
+Data storytelling, dashboard development, technology watch (veille), exploratory analysis, KPI design, and decision-support visualization.
+
+---
+## Analytics & Visualization
+
+In addition to AI systems and computational research, I develop analytical dashboards and visualization systems designed to support exploration, prioritization, communication, and decision-making.
+
+Recent projects include technology watch dashboards, exploratory scientific visualizations, and business-oriented decision-support tools built with Tableau and related analytics platforms.
 
 <div align="center">
 
