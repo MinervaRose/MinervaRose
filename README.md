@@ -172,6 +172,33 @@ Ongoing projects are progressively documented through:
   
 ---
 
+## Autonomous Systems Portfolio
+
+One of the most formative stages of my AI journey was the completion of the Self-Driving Car Engineer Nanodegree.
+
+The recovered project portfolio covers the complete autonomous driving stack:
+
+- computer vision
+- deep learning
+- sensor fusion
+- localization
+- path planning
+- vehicle control
+
+🚗 **Portfolio Hub:**  
+[https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects
+)
+
+Representative projects include:
+
+- Advanced Lane Finding
+- Traffic Sign Classification
+- Behavioral Cloning
+- Extended Kalman Filter Sensor Fusion
+- Kidnapped Vehicle Localization
+- Highway Path Planning
+- PID Vehicle Control
+
 ---
 
 ## Milestones & Foundations
