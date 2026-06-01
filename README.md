@@ -1,7 +1,11 @@
 <div align="center">
-🇫🇷 ![Version française](https://github.com/MinervaRose/MinervaRose/blob/main/README_FR.md)
-
 # 🌌 MinervaRose
+
+<p align="center">
+
+[🇫🇷 Version française](README_FR.md)
+
+</p>
 
 ### AI Systems • Analytics & Visualization • Computational Research • Technical Education
 
