@@ -1,4 +1,5 @@
 <div align="center">
+🇫🇷 [Version française](README_FR.md)
 
 # 🌌 MinervaRose
 
