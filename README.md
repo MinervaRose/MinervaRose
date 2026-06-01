@@ -1,5 +1,5 @@
 <div align="center">
-🇫🇷 [Version française](https://github.com/MinervaRose/MinervaRose/blob/main/README_FR.md)
+🇫🇷 ![Version française](https://github.com/MinervaRose/MinervaRose/blob/main/README_FR.md)
 
 # 🌌 MinervaRose
 
