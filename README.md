@@ -1,8 +1,8 @@
 <div align="center">
+           
 # 🌌 MinervaRose
 
 [🇫🇷 Version française](README_FR.md)
-
 
 ### AI Systems • Analytics & Visualization • Computational Research • Technical Education
 
