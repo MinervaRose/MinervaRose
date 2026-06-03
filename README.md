@@ -158,9 +158,9 @@ My teaching approach emphasizes systems thinking, practical problem-solving, and
 
 ### MSc Artificial Intelligence (First Class Honours)
 
-Additional specialization includes deep learning, reinforcement learning, computer vision, data science, and AI for healthcare.
-
 [Autonomous Aerospace Monitoring Assistant (MSc AI Capstone)](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) — An integrated AI decision-support system combining machine learning, deep learning, generative AI, and agentic workflows to support risk-aware anomaly triage, auditability, and human-in-the-loop decision-making in safety-critical environments.
+
+Additional specialization includes deep learning, reinforcement learning, computer vision, data science, and AI for healthcare.
 
 ---
 
