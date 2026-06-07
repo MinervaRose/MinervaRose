@@ -4,24 +4,35 @@
 
 🇬🇧 [English Version](README.md)
 
-### Systèmes d’IA • Analyse & Visualisation • Recherche Computationnelle Appliquée • Formation Technique
+### IA générative appliquée • Data & Python • Formation professionnelle • Aide à la décision • Workflows LLM
 
-*Master of Science en Intelligence Artificielle (First Class Honours)*
+*MSc Artificial Intelligence, First Class Honours — distinction académique britannique de plus haut niveau.*
 
 <img src="MY-CREST-IMAGE-SQUARE.png" width="250"/>
 
-![Python](https://img.shields.io/badge/Python-Systèmes_IA_&_Data-f06292?style=for-the-badge\&logo=python\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Recherche_Computationnelle-f48fb1?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Éducation](https://img.shields.io/badge/Éducation-Mentorat_&_Pédagogie-f8bbd0?style=for-the-badge)
-![IA](https://img.shields.io/badge/IA-Systèmes_Modulaires-c2185b?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-IA_&_Data-f06292?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Workflows_IA-c2185b?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Démonstrateurs_Métier-f48fb1?style=for-the-badge&logo=streamlit&logoColor=white)
+![Éducation](https://img.shields.io/badge/Formation-Mentorat_&_Pédagogie-f8bbd0?style=for-the-badge)
+![Gouvernance](https://img.shields.io/badge/IA-Human--in--the--Loop-7b1fa2?style=for-the-badge)
 
-Conceptrice de systèmes d’IA, de technologies éducatives et d’outils computationnels exploratoires.
+Conceptrice de systèmes d’IA appliquée, de démonstrateurs métier, de supports de formation technique et d’outils d’aide à la décision.
 
-Animée par la curiosité, j’aime créer des systèmes qui aident à apprendre, explorer, visualiser et comprendre des idées complexes.
+J’aime créer des systèmes qui rendent l’IA plus concrète, plus compréhensible et plus utilisable pour des équipes réelles.
 
-Ouverte à des collaborations ciblées, des missions de conseil, du mentorat et des projets liés à l’IA appliquée et à la formation.
+Ouverte à des collaborations ciblées, des missions de conseil, du mentorat, de la formation professionnelle et des projets liés à l’IA appliquée, aux workflows LLM, à la data et à la gouvernance opérationnelle.
 
 </div>
+
+---
+
+# Profil professionnel
+
+Je suis consultante, formatrice et mentore en intelligence artificielle, data et Python, avec un parcours atypique mêlant sciences de l’éducation, humanités, création de contenus pédagogiques et formation technique intensive en IA.
+
+Mon parcours en IA s’est construit à partir de sélections internationales très compétitives : j’ai été retenue pour plusieurs programmes de bourses technologiques liés à l’intelligence artificielle, au deep learning, à PyTorch, à la data science, à la vision par ordinateur et aux véhicules autonomes. Ces formations m’ont permis de construire progressivement un portfolio de projets concrets, orientés systèmes, données, automatisation et apprentissage par la pratique.
+
+Aujourd’hui, je développe des démonstrateurs IA et data destinés à des usages professionnels : workflows LLM, outils d’aide à la décision, dashboards, assistants métier, systèmes de veille, analyse de données et supports de formation. Mon objectif est de rendre l’IA compréhensible, utilisable et gouvernable pour des équipes non spécialistes comme pour des publics techniques.
 
 ---
 
@@ -29,28 +40,33 @@ Ouverte à des collaborations ciblées, des missions de conseil, du mentorat et 
 
 Je travaille à l’intersection de :
 
-* l’intelligence artificielle
-* la recherche computationnelle appliquée
-* l’éducation
-* la visualisation et l’analyse exploratoire
-* les technologies centrées sur l’humain
+* l’intelligence artificielle appliquée ;
+* la data et l’analyse exploratoire ;
+* la formation technique ;
+* les workflows LLM ;
+* la visualisation et l’aide à la décision ;
+* les technologies centrées sur l’humain.
 
-Mes projets combinent mise en œuvre technique, conception visuelle et apprentissage. Ils prennent souvent la forme de systèmes d’IA, d’outils pédagogiques, de prototypes scientifiques, de visualisations interactives et de cadres de recherche exploratoire.
+Mes projets combinent mise en œuvre technique, conception visuelle et pédagogie. Ils prennent souvent la forme de prototypes Streamlit, notebooks reproductibles, pipelines modulaires, rapports techniques, tableaux de bord, assistants métier et démonstrateurs de formation.
 
-Mes centres d’intérêt incluent notamment l’exploration scientifique, l’analyse d’anomalies, les systèmes d’aide à la décision, la bioacoustique, l’apprentissage assisté par l’IA et les architectures d’IA opérant sous incertitude.
+Je privilégie les projets qui répondent à une question concrète :
 
-Les projets sont généralement développés sous forme de notebooks reproductibles, pipelines modulaires, rapports techniques, ressources pédagogiques et prototypes de recherche.
+* comment structurer une information dispersée ?
+* comment aider une équipe à décider ?
+* comment rendre un système IA explicable ?
+* comment garder l’humain dans la boucle ?
+* comment transformer un concept technique en cas d’usage compréhensible ?
 
 ---
 
 # Vision Systémique
 
 ```text
-           Curiosité
+           Besoin métier
                 ↓
-Apprentissage ↔ Systèmes d’IA ↔ Recherche
+Données → Système IA → Synthèse / Décision
                 ↓
-     Visualisation & Compréhension
+      Validation humaine & gouvernance
 ```
 
 ---
@@ -62,24 +78,30 @@ Langages & Développement
 Python • SQL • Jupyter • Git • GitHub
 
 IA & Apprentissage Automatique
-Systèmes à base de LLM • Deep Learning
+IA générative • LLM • Prompt engineering
+Workflows LLM • Agents IA supervisés
+Machine Learning • Deep Learning
 Vision par Ordinateur
-Workflows Agentiques • IA Human-in-the-Loop
 
 Données & Analyse
-Tableau • Power BI • Visualisation de Données
-Analyse Exploratoire • KPI • Aide à la Décision
+Pandas • Analyse exploratoire
+Tableau • Power BI • Visualisation de données
+KPI • Tableaux de bord • Aide à la décision
 
-Recherche & Exploration
-Analyse de Signaux
-Recherche Computationnelle
-Calcul Scientifique
-Détection d’Anomalies
+Applications & Prototypes
+Streamlit • Gradio • OpenAI API
+CSV pipelines • Markdown export
+Dashboards • Assistants métier
+
+Gouvernance & Qualité
+Human-in-the-loop • Traçabilité des sources
+Validation humaine • Documentation des limites
+Conformité opérationnelle • Usage responsable de l’IA
 
 Formation & Communication
-Mentorat • Conception Pédagogique
-Technologies Éducatives
-Rédaction Technique
+Mentorat • Conception pédagogique
+Formation professionnelle • Supports techniques
+Rédaction technique • Apprentissage par projet
 ```
 
 ---
@@ -88,29 +110,60 @@ Rédaction Technique
 
 Mon activité s’articule actuellement autour de quatre axes complémentaires.
 
-## Systèmes d’IA
+## IA appliquée aux métiers
 
-Workflows agentiques, systèmes d’aide à la décision, pipelines d’orchestration, applications basées sur les LLM et architectures intégrant l’humain dans la boucle.
+Workflows LLM, assistants métier, systèmes d’aide à la décision, automatisation encadrée, synthèse documentaire, scoring, priorisation et outils human-in-the-loop.
 
-## Recherche Computationnelle
+## Formation technique et mentorat
 
-Cadres d’exploration scientifique, investigation computationnelle, analyse d’anomalies et développement de prototypes orientés recherche.
+Mentorat en intelligence artificielle, science des données, Python, SQL, machine learning et projets portfolio. Conception de supports pédagogiques et de démonstrateurs manipulables.
 
-## Formation Technique
+## Analyse, visualisation et aide à la décision
 
-Mentorat en intelligence artificielle et science des données, technologies éducatives, conception de parcours d’apprentissage et pédagogie par projet.
+Tableaux de bord, data storytelling, indicateurs métier, visualisations exploratoires, veille technologique et transformation de données en informations exploitables.
 
-## Analyse & Visualisation
+## Recherche computationnelle appliquée
 
-Data storytelling, tableaux de bord, veille technologique, analyse exploratoire, conception de KPI et visualisation pour l’aide à la décision.
+Projets exploratoires sous forme de notebooks, rapports techniques et prototypes autour de l’incertitude, des signaux faibles, de l’exploration scientifique et des systèmes complexes.
+
+---
+
+# Projet mis en avant : AI Competitive Intelligence Observatory
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/GitHub-AI_Competitive_Intelligence_Observatory-c2185b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinervaRose/ai-competitive-intelligence-observatory)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20581501.svg)](https://doi.org/10.5281/zenodo.20581501)
+
+</div>
+
+**AI Competitive Intelligence Observatory** est un démonstrateur Streamlit en français conçu pour montrer comment l’IA générative peut transformer une veille dispersée en briefing stratégique utile, vérifiable et actionnable.
+
+Le projet illustre un workflow complet d’IA appliquée aux métiers :
+
+* structuration de signaux de veille à partir d’un CSV ;
+* scoring des signaux selon la nouveauté, la pertinence métier et l’impact gouvernance ;
+* analyse d’un signal par LLM ;
+* génération d’un briefing stratégique ;
+* traçabilité des sources ;
+* checklist de validation humaine ;
+* registre léger de gouvernance.
+
+Ce projet est particulièrement aligné avec mes axes actuels : **IA générative appliquée aux métiers**, **workflows LLM**, **aide à la décision**, **formation professionnelle** et **gouvernance opérationnelle de l’IA**.
+
+**Dépôt GitHub :**  
+https://github.com/MinervaRose/ai-competitive-intelligence-observatory
+
+**Archive Zenodo :**  
+https://doi.org/10.5281/zenodo.20581501
 
 ---
 
 # Analyse & Visualisation
 
-En complément des systèmes d’IA et de la recherche computationnelle, je développe des tableaux de bord et des systèmes de visualisation conçus pour soutenir l’exploration, la priorisation, la communication et la prise de décision.
+En complément des systèmes d’IA et de la formation technique, je développe des tableaux de bord et des systèmes de visualisation conçus pour soutenir l’exploration, la priorisation, la communication et la prise de décision.
 
-Les projets récents incluent des tableaux de bord de veille technologique, des visualisations scientifiques exploratoires et des outils d’aide à la décision orientés métier développés avec Tableau et d’autres plateformes analytiques.
+Les projets récents incluent des tableaux de bord de veille technologique, des visualisations scientifiques exploratoires et des outils d’aide à la décision orientés métier développés avec Tableau, Streamlit et d’autres plateformes analytiques.
 
 <div align="center">
 
@@ -126,11 +179,11 @@ Les projets récents incluent des tableaux de bord de veille technologique, des 
 
 Ce projet illustre l’ensemble du processus de conception d’un tableau de bord analytique :
 
-* préparation et structuration des données
-* conception de KPI et d’indicateurs métier
-* visualisation exploratoire et comparative
-* composition de tableaux de bord
-* aide à la décision pour les décideurs
+* préparation et structuration des données ;
+* conception de KPI et d’indicateurs métier ;
+* visualisation exploratoire et comparative ;
+* composition de tableaux de bord ;
+* aide à la décision pour les décideurs.
 
 L’objectif n’est pas seulement d’afficher des données, mais de transformer l’information en connaissances exploitables grâce à une communication visuelle claire.
 
@@ -138,14 +191,17 @@ L’objectif n’est pas seulement d’afficher des données, mais de transforme
 
 # Projets Sélectionnés
 
-| Projet                                   | Domaine                                                |
-| ---------------------------------------- | ------------------------------------------------------ |
-| industry-integrated-ai-systems-synthesis | architectures intégrées d’aide à la décision           |
-| opsflow.ai                               | orchestration et routage opérationnels                 |
-| leadflow-ai                              | qualification et activation assistées par IA           |
-| bioacoustic-topology                     | représentation et dynamique des signaux bioacoustiques |
-| latent-physiological-topology            | systèmes exploratoires de signaux physiologiques       |
-| design-of-agentic-workflows              | architectures multi-agents gouvernées                  |
+| Projet | Domaine |
+| ------ | ------- |
+| [ai-competitive-intelligence-observatory](https://github.com/MinervaRose/ai-competitive-intelligence-observatory) | veille stratégique assistée par IA, workflows LLM, briefing métier et gouvernance |
+| [recruitment-copilot](https://github.com/MinervaRose/recruitment-copilot) | aide à la décision RH, analyse de CV et workflow human-in-the-loop |
+| [leadflow-ai](https://github.com/MinervaRose/leadflow-ai) | qualification et activation assistées par IA |
+| [opsflow.ai](https://github.com/MinervaRose/opsflow.ai) | orchestration et routage opérationnels |
+| [industry-integrated-ai-systems-synthesis](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | architectures intégrées d’aide à la décision |
+| [exoplanet-discovery-observatory](https://github.com/MinervaRose/exoplanet-discovery-observatory) | visualisation de données scientifiques avec Tableau |
+| bioacoustic-topology | représentation et dynamique des signaux bioacoustiques |
+| latent-physiological-topology | systèmes exploratoires de signaux physiologiques |
+| design-of-agentic-workflows | architectures multi-agents gouvernées |
 
 ---
 
@@ -153,23 +209,41 @@ L’objectif n’est pas seulement d’afficher des données, mais de transforme
 
 En parallèle du développement technique, j’accompagne des apprenants dans leurs projets liés à l’intelligence artificielle, à la science des données et au développement logiciel.
 
-En tant que mentor OpenClassrooms, j’aide les étudiants à développer leurs compétences techniques, construire leur portfolio et valoriser efficacement leur travail.
+En tant que mentor OpenClassrooms, j’aide les étudiants à développer leurs compétences techniques, construire leur portfolio, comprendre les attentes professionnelles et valoriser efficacement leur travail.
 
-Mon approche pédagogique met l’accent sur la pensée systémique, la résolution de problèmes concrets et la réalisation de projets proches des situations réelles.
+Mon approche pédagogique met l’accent sur :
+
+* la pensée systémique ;
+* la résolution de problèmes concrets ;
+* la progression par projets ;
+* la clarté des explications ;
+* la capacité à relier théorie, code et usage réel.
+
+Je conçois aussi des supports de formation et des démonstrateurs destinés à rendre l’IA plus accessible à des publics non spécialistes, sans simplifier abusivement les enjeux.
 
 ---
 
 # Parcours
 
-## MSc Artificial Intelligence (First Class Honours)
+## MSc Artificial Intelligence — First Class Honours
+
+Diplôme de niveau master en intelligence artificielle, obtenu avec la plus haute distinction académique du système britannique.
 
 Spécialisations complémentaires :
 
-* Deep Learning
-* Reinforcement Learning
-* Vision par Ordinateur
-* Science des Données
-* IA appliquée à la santé
+* Deep Learning ;
+* Reinforcement Learning ;
+* Vision par Ordinateur ;
+* Science des Données ;
+* IA appliquée à la santé ;
+* IA générative ;
+* systèmes autonomes.
+
+## Parcours de formation intensive en IA
+
+Mon apprentissage technique s’est construit grâce à plusieurs sélections internationales compétitives dans des programmes de bourses technologiques autour de l’IA, du deep learning, de PyTorch, de la data science, de la vision par ordinateur et des véhicules autonomes.
+
+Ce parcours m’a donné une approche très orientée projets : apprendre en construisant, tester les idées dans du code, documenter les résultats et transformer les compétences en artefacts visibles.
 
 ---
 
@@ -177,11 +251,14 @@ Spécialisations complémentaires :
 
 Les projets en cours sont progressivement documentés sous forme de :
 
-* rapports techniques
-* dépôts GitHub
-* publications Zenodo
-* ressources pédagogiques
-* notebooks computationnels exploratoires
+* rapports techniques ;
+* dépôts GitHub ;
+* publications Zenodo ;
+* ressources pédagogiques ;
+* notebooks computationnels exploratoires ;
+* démonstrateurs Streamlit ou Gradio.
+
+L’objectif est de rendre les projets inspectables, réutilisables et compréhensibles, aussi bien pour des lecteurs techniques que pour des publics professionnels.
 
 ---
 
@@ -191,14 +268,14 @@ L’une des étapes les plus formatrices de mon parcours a été la réalisation
 
 Le portfolio couvre l’ensemble de la chaîne technologique d’un véhicule autonome :
 
-* vision par ordinateur
-* deep learning
-* fusion de capteurs
-* localisation
-* planification de trajectoire
-* contrôle véhicule
+* vision par ordinateur ;
+* deep learning ;
+* fusion de capteurs ;
+* localisation ;
+* planification de trajectoire ;
+* contrôle véhicule.
 
-🚗 **Portfolio :**
+**Portfolio :**
 
 https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects
 
@@ -208,12 +285,27 @@ https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects
 
 Les projets actuels s’inscrivent dans un parcours plus large mêlant éducation, recherche, analyse de données, intelligence artificielle et conception de systèmes.
 
-| Jalon                                                            | Année     |
-| ---------------------------------------------------------------- | --------- |
-| Deep Reinforcement Learning Nanodegree (Facebook AI Scholarship) | 2019      |
-| Deep Learning & PyTorch Scholarship Programs                     | 2018–2019 |
-| Android Basics Nanodegree (Google Scholarship)                   | 2018      |
-| MSc Artificial Intelligence (First Class Honours)                | 2026      |
+| Jalon | Année |
+| ----- | ----- |
+| Sélection internationale pour un parcours Deep Reinforcement Learning | 2019 |
+| Sélections pour des programmes Deep Learning et PyTorch | 2018–2019 |
+| Sélection pour une formation Android soutenue par Google | 2018 |
+| Portfolio Self-Driving Car Engineer | 2020–2021 |
+| MSc Artificial Intelligence, First Class Honours | 2026 |
+
+---
+
+# Ce que je recherche
+
+Je suis particulièrement intéressée par des missions, collaborations ou postes autour de :
+
+* la formation professionnelle en IA générative, data et Python ;
+* la conception de démonstrateurs IA pour des cas métiers ;
+* les workflows LLM et l’automatisation encadrée ;
+* l’aide à la décision et les systèmes human-in-the-loop ;
+* la visualisation de données et la veille technologique ;
+* la pédagogie technique et le mentorat ;
+* les projets IA responsables, explicables et utiles.
 
 ---
 
