@@ -1,24 +1,26 @@
 <div align="center">
-           
+
 # 🌌 MinervaRose
 
 [🇫🇷 Version française](README_FR.md)
 
-### AI Systems • Analytics & Visualization • Computational Research • Technical Education
+### Explainable AI Systems • Decision Support • Computational Research • Technical Education
 
 *MSc Artificial Intelligence (First Class Honours)*
 
 <img src="MY-CREST-IMAGE-SQUARE.png" width="250"/>
 
-
-![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Computational_Research-f48fb1?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge\&logo=python\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Computational_Research-f48fb1?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI-Modular_Systems-c2185b?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI-Explainable_Systems-c2185b?style=for-the-badge)
 
-Builder of AI systems, educational technologies, and exploratory computational tools.
+Builder of explainable AI systems, decision-support tools, educational technologies, and computational research projects.
 
-Driven by curiosity, I enjoy creating systems that help people learn, explore, visualize, and understand complex ideas.
+Driven by curiosity, I enjoy designing systems that help people understand complex information, make informed decisions, and remain in control of the process.
+
+**Looking for a concise presentation?**
+➡️ Visit my portfolio: **https://minervarose.github.io/**
 
 Currently open to selected collaborations, consulting, mentoring, and applied AI education opportunities.
 
@@ -26,238 +28,222 @@ Currently open to selected collaborations, consulting, mentoring, and applied AI
 
 ---
 
-## About
+# My Journey into AI
 
-I work at the intersection of:
+My path into artificial intelligence did not begin in an engineering school or a traditional computer science programme.
 
-* AI systems
-* applied computational research
-* education
-* visualization and exploratory analysis
-* human-centered technology
+On **November 6, 2017**, I received a life-changing email. I had been selected for the **Google Developer Scholarship Challenge** hosted through Udacity.
 
-My projects combine technical implementation, design, and learning experiences, often taking the form of AI systems, educational tools, scientific prototypes, interactive visualizations, and research-oriented computational frameworks.
+At the time, I had no professional background in software development. What began as curiosity quickly became a passion for building technology and solving problems through code.
 
-Areas of interest include scientific exploration, anomaly analysis, decision-support systems, bioacoustics, AI-assisted learning, and exploratory AI architectures operating under uncertainty.
+That opportunity led to a series of competitive scholarship programmes supported by organizations including **Google** and **Facebook**, followed by numerous AI, machine learning, and data science programmes, ultimately culminating in an **MSc in Artificial Intelligence (First Class Honours)**.
 
-Projects are typically developed as reproducible notebooks, modular pipelines, technical reports, educational artifacts, and research prototypes.
+This unconventional path continues to shape the way I approach technology today: through curiosity, continuous learning, interdisciplinary thinking, and a strong emphasis on creating systems that remain understandable and useful to people.
 
 ---
 
-## Systems Perspective
+# What I Build
 
-```text
-           Curiosity
-                ↓
-Learning ↔ AI Systems ↔ Research
-                ↓
-     Visualization & Understanding
-```
+My work focuses on AI systems that support human understanding and decision-making rather than replacing it.
 
----
+Recent projects span:
 
-## Methods & Tooling
+* explainable AI applications
+* decision-support systems
+* audit and anomaly analysis
+* educational technologies
+* computational research
+* scientific exploration
+* interactive dashboards and visual analytics
 
-```text
-Languages & Development
-Python • SQL • Jupyter • Git • GitHub
-
-AI & Machine Learning
-LLM Systems • Deep Learning • Computer Vision
-Agentic Workflows • Human-in-the-Loop AI
-
-Data & Analytics
-Tableau • Power BI • Data Visualization
-Exploratory Analysis • KPI Design • Decision Support
-
-Research & Exploration
-Signal Analysis • Computational Research
-Scientific Computing • Anomaly Detection
-
-Education & Communication
-Mentoring • Curriculum Design
-Educational Technology • Technical Writing
-```
+Whether the domain is aviation, finance, education, or scientific research, I aim to design systems that are transparent, modular, and human-reviewable.
 
 ---
 
-## Areas of Practice
+# Current Focus
 
-My work currently spans four complementary areas:
+My current work combines four complementary areas.
 
-### AI Systems
+## Explainable AI Systems
 
-Agentic workflows, decision-support systems, orchestration pipelines, LLM applications, and human-in-the-loop architectures.
+Designing AI applications that expose their reasoning, preserve evidence, and keep humans in control of important decisions.
 
-### Computational Research
+## Computational Research
 
-Exploratory computational frameworks, scientific investigation, anomaly analysis, and research-oriented prototype development.
+Building exploratory computational frameworks for scientific investigation, anomaly analysis, and interdisciplinary research.
 
-### Technical Education
+## Technical Education
 
-AI and data science mentoring, educational technologies, curriculum design, and project-based learning systems.
+Mentoring learners in AI and data science while creating educational tools, technical documentation, and project-based learning experiences.
 
-### Analytics & Visualization
-
-Data storytelling, dashboard development, technology watch (veille), exploratory analysis, KPI design, and decision-support visualization.
-
----
 ## Analytics & Visualization
 
-In addition to AI systems and computational research, I develop analytical dashboards and visualization systems designed to support exploration, prioritization, communication, and decision-making.
+Developing dashboards and visual systems that transform complex information into clear, actionable insights.
 
-Recent projects include technology watch dashboards, exploratory scientific visualizations, and business-oriented decision-support tools built with Tableau and related analytics platforms.
+---
+
+# Selected Projects
+
+| Project                                     | Focus                                                                                          |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ✈️ Airline Said No                          | Explainable airline passenger rights assistant                                                 |
+| 📊 BeLedgerReady                            | Explainable audit-readiness and financial anomaly analysis                                     |
+| 🚀 industry-integrated-ai-systems-synthesis | MSc capstone integrating machine learning, deep learning, generative AI, and agentic workflows |
+| 🐦 bioacoustic-topology                     | Computational research on birdsong manifold dynamics                                           |
+| 🧠 latent-physiological-topology            | Exploratory physiological signal analysis                                                      |
+| 🤖 design-of-agentic-workflows              | Governed multi-agent workflow architectures                                                    |
+
+---
+
+# Design Principles
+
+Across projects, I enjoy building systems that are:
+
+* explainable rather than opaque
+* evidence-based rather than speculative
+* human-in-the-loop rather than fully autonomous
+* modular and reproducible
+* educational by design
+* technically rigorous while remaining accessible
+
+These principles guide both my consulting work and my personal research projects.
+
+---
+
+# Analytics & Visualization
+
+Alongside AI systems, I build analytical dashboards that support exploration, prioritization, communication, and decision-making.
+
+Recent work includes technology watch dashboards, exploratory scientific visualizations, and business-oriented analytics developed with Tableau and related visualization tools.
 
 <div align="center">
 
-<a href="https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="dashboard_screenshot.png" width="900"/>
+<a href="https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link">
+<img src="dashboard_screenshot.png" width="900"/>
 </a>
 
 </div>
 
-**Interactive Dashboard:**
-[View on Tableau Public](https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Interactive Dashboard**
 
-This project demonstrates the end-to-end workflow behind analytical dashboard development:
+https://public.tableau.com/views/veille_ia_strategique/Tableaudebord1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
 
-* data preparation and structuring
-* KPI design and business metrics
-* exploratory and comparative visualization
-* dashboard composition and storytelling
-* executive-oriented decision support
+This project illustrates an end-to-end analytics workflow including:
 
-The objective is not merely to display data, but to transform information into actionable insight through clear visual communication.
-
----
-
-## Selected Projects
-
-| Project | Focus |
-|---|---|
-| industry-integrated-ai-systems-synthesis | integrated AI decision-support architectures |
-| opsflow.ai | modular operational routing and orchestration |
-| leadflow-ai | AI-assisted qualification and activation pipelines |
-| bioacoustic-topology | birdsong manifold dynamics and acoustic representation |
-| latent-physiological-topology | exploratory physiological signal systems |
-| design-of-agentic-workflows | governed multi-agent workflow architectures |
+* data preparation
+* KPI design
+* exploratory visualization
+* dashboard storytelling
+* executive decision support
 
 ---
 
-## Teaching & Mentoring
+# Teaching & Mentoring
 
-Alongside technical development, I mentor learners in AI, data, and software projects.
+Alongside technical development, I mentor learners in AI, data science, and software engineering.
 
-As an **OpenClassrooms mentor**, I help students develop technical skills, build portfolio projects, and communicate their work effectively.
+As an **OpenClassrooms mentor**, I support students in developing technical skills, building portfolio projects, and communicating their work effectively.
 
-My teaching approach emphasizes systems thinking, practical problem-solving, and real-world project construction.
-
----
-
-## Background
-
-### MSc Artificial Intelligence (First Class Honours)
-
-[Autonomous Aerospace Monitoring Assistant (MSc AI Capstone)](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) — An integrated AI decision-support system combining machine learning, deep learning, generative AI, and agentic workflows to support risk-aware anomaly triage, auditability, and human-in-the-loop decision-making in safety-critical environments.
-
-Additional specialization includes deep learning, reinforcement learning, computer vision, data science, and AI for healthcare.
+My teaching philosophy emphasizes curiosity, systems thinking, practical experimentation, and real-world project construction.
 
 ---
 
-## Research & Publications
+# Research & Publications
 
-Ongoing projects are progressively documented through:
+Ongoing work is progressively documented through:
 
-* technical reports
 * GitHub repositories
+* technical reports
 * Zenodo publications
-* educational write-ups
-* exploratory computational notebooks
-  
+* educational articles
+* computational notebooks
+
+Current areas of exploration include explainable AI, decision-support systems, anomaly detection, scientific computing, bioacoustics, and interdisciplinary AI applications.
+
 ---
 
-## Autonomous Systems Portfolio
+# Autonomous Systems Portfolio
 
-One of the most formative stages of my AI journey was the completion of the Self-Driving Car Engineer Nanodegree.
+One of the most formative stages of my AI journey was completing the **Self-Driving Car Engineer Nanodegree**.
 
-The recovered project portfolio covers the complete autonomous driving stack:
+This portfolio explores the complete autonomous driving pipeline, including:
 
-- computer vision
-- deep learning
-- sensor fusion
-- localization
-- path planning
-- vehicle control
+* computer vision
+* deep learning
+* sensor fusion
+* localization
+* path planning
+* vehicle control
 
-🚗 **Portfolio Hub:**  
-[https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects
-)
+🚗 **Portfolio Hub**
+
+https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects
 
 Representative projects include:
 
-- Advanced Lane Finding
-- Traffic Sign Classification
-- Behavioral Cloning
-- Extended Kalman Filter Sensor Fusion
-- Kidnapped Vehicle Localization
-- Highway Path Planning
-- PID Vehicle Control
+* Advanced Lane Finding
+* Traffic Sign Classification
+* Behavioral Cloning
+* Extended Kalman Filter
+* Vehicle Localization
+* Highway Path Planning
+* PID Vehicle Control
 
 ---
 
-## Milestones & Foundations
+# Milestones & Foundations
 
-Current projects build upon a longer learning journey spanning education, research, applied AI, and systems design.
+My current work builds upon several years of independent learning through competitive scholarship programmes, professional education, and applied AI development.
 
-Selected milestones include:
+| Milestone                                           | Year |
+| --------------------------------------------------- | ---- |
+| Google Developer Scholarship Challenge              | 2017 |
+| Android Basics Nanodegree                           | 2018 |
+| Facebook AI & PyTorch Scholarship                   | 2018 |
+| Deep Learning Nanodegree                            | 2019 |
+| Facebook AI Deep Reinforcement Learning Scholarship | 2019 |
+| Deep Reinforcement Learning Nanodegree              | 2019 |
+| Many more certificates                              | ... |
+| MSc Artificial Intelligence (First Class Honours)   | 2026 |
 
-| Milestone                                                        | Year      |
-| ---------------------------------------------------------------- | --------- |
-| Deep Reinforcement Learning Nanodegree (Facebook AI Scholarship) | 2019      |
-| Deep Learning & PyTorch Scholarship Programs                     | 2018–2019 |
-| Android Basics Nanodegree (Google Scholarship)                   | 2018      |
-| MSc Artificial Intelligence (First Class Honours)                | 2026      |
+These programmes marked the transition from curiosity-driven self-learning to designing increasingly sophisticated AI systems and research-oriented software.
 
-### Deep Reinforcement Learning Nanodegree (Facebook AI Scholarship)
+---
 
-A three-project reinforcement learning portfolio covering:
+# Technologies
 
-* Deep Q-Networks (DQN)
-* Continuous Control with DDPG
-* Multi-Agent Reinforcement Learning (MADDPG)
+```text
+Languages
+Python • SQL
 
-🔗 Repository: [https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Deep-Reinforcement-Learning-Nanodegree-Projects)
+AI
+Machine Learning • Deep Learning • LLM Applications
+Computer Vision • Agentic Workflows
+Human-in-the-Loop AI
 
-This work marked an early transition from traditional programming toward autonomous agents, decision systems, and AI architectures.
+Data
+Tableau • Power BI
+Data Visualization
+Decision Support
+Exploratory Analytics
 
-More recent projects build upon many of the concepts first explored there.
+Research
+Scientific Computing
+Signal Analysis
+Anomaly Detection
 
-### Deep Learning Nanodegree (Facebook AI Scholarship)
-
-Following selection for the Facebook AI & PyTorch Scholarship Challenge, I was awarded a full scholarship to the Udacity Deep Learning Nanodegree and graduated in 2019.
-
-The resulting project portfolio explores several major deep learning paradigms, including neural networks, computer vision, natural language processing, generative adversarial networks (GANs), and model deployment with Amazon SageMaker.
-
-🔗 Repository: [https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects)
-
-This work represents an early milestone in my transition from traditional programming and data analysis toward modern AI systems and machine learning engineering.
-
-### Android Basics Nanodegree (Google Developer Scholarship)
-
-On November 6, 2017, I received a life-changing email. I was offered a seat in the Google Developer Scholarship Challenge hosted through Udacity.
-
-At the time, I had no background in computer science and no experience developing software professionally. What began as curiosity quickly became a passion for building technology and solving problems through code.
-
-🔗 Repository: [https://github.com/MinervaRose/Deep-Learning-Nanodegree-Projects](https://github.com/MinervaRose/Android-Basics-Nanodegree-Projects)
+Development
+Git • GitHub • Jupyter
+Technical Writing
+Educational Technologies
+```
 
 ---
 
 <div align="center">
+
 <img src="MY-CREST-IMAGE-SQUARE.png" width="50"/>
-</div> 
 
+### ✦ Curiositas ad Lucem ✦
 
-<div align="center">
-✦ Curiositas ad Lucem ✦
-  
-</div> 
+</div>
