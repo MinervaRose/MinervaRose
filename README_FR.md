@@ -20,7 +20,7 @@ Je conçois des systèmes d'intelligence artificielle, des logiciels d'aide à l
 Guidée par la curiosité, j'aime créer des systèmes qui aident à apprendre, explorer, visualiser et comprendre des sujets complexes.
 
 **Vous souhaitez une présentation plus synthétique de mon parcours et de mes projets ?**  
-➡️ Portfolio : **https://minervarose.github.io/**
+➡️ Portfolio : **[https://minervarose.github.io/](https://minervarose.github.io/fr/)**
 
 </div>
 
