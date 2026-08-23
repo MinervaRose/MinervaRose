@@ -75,7 +75,7 @@ GitHub naturally shows the technical part of my work. The wider picture also inc
 
 <div align="center">
 
-<img src="sabrina-map.png" width="700" alt="A visual map of Sabrina Palis Jorgenson's work across AI, research, education, writing, systems, literature, music, and scientific curiosity"/>
+<img src="sabrina-map.png" width="300" alt="A visual map of Sabrina Palis Jorgenson's work across AI, research, education, writing, systems, literature, music, and scientific curiosity"/>
 
 </div>
 
