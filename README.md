@@ -6,9 +6,11 @@
 
 [🇫🇷 Version française](README_FR.md)
 
-### AI Systems • Computational Research • Analytics & Visualization • Technical Education
+### AI & Data Educator • Mentor & Certification Juror • Independent Researcher
 
-*MSc Artificial Intelligence — First Class Honours*
+**Applied AI Systems • Computational Research • Analytics & Visualization • Technical Education**
+
+*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS*
 
 <img src="MY-CREST-IMAGE-SQUARE.png" width="220" alt="MinervaRose crest"/>
 
@@ -17,11 +19,15 @@
 ![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
 ![AI Systems](https://img.shields.io/badge/AI-Human--Centered_Systems-c2185b?style=for-the-badge)
 
-I build AI and data systems that help people inspect complex information, understand uncertainty, and make better decisions.
+I work at the intersection of **applied AI, computational research, data, and technical education**.
 
-My work combines **decision-support systems, machine learning, computational research, analytics, visualization, and technical education**, with a particular interest in explainability and human judgement.
+My technical practice has developed continuously since 2017 through structured study and project work across software development, machine learning, deep learning, computer vision, autonomous systems, reinforcement learning, data science, cloud technologies, and generative AI, culminating in an **MSc in Artificial Intelligence with First Class Honours** in 2026.
 
-[**Portfolio**](https://minervarose.github.io/) · [**Medium**](https://medium.com/@sabrina.jorgenson) · [**LinkedIn**](https://www.linkedin.com/in/sabrina-jp/)
+Today, I build AI and data systems, conduct independent computational research, mentor AI and data learners, design technical learning resources, and assess project-based work.
+
+Across these activities, I am particularly interested in **explainability, evidence, uncertainty, reproducibility, human judgement, and responsible human–AI collaboration**.
+
+[**Portfolio**](https://minervarose.github.io/) · [**ORCID**](https://orcid.org/0009-0009-4663-9778) · [**Medium**](https://medium.com/@sabrina.jorgenson) · [**LinkedIn**](https://www.linkedin.com/in/sabrina-jp/)
 
 </div>
 
@@ -40,7 +46,7 @@ My work combines **decision-support systems, machine learning, computational res
 | 🧠 **latent-physiological-topology** | Exploratory physiological signal analysis |
 | 🤖 **design-of-agentic-workflows** | Governed multi-agent workflow architectures |
 
-I also build compact prototypes for hackathons, teaching, and exploratory research. These projects are deliberately scoped to test an idea, expose its limitations, and establish whether it deserves to grow.
+I also build compact prototypes for **hackathons, teaching, and exploratory research**. These projects are deliberately scoped to test an idea, expose its limitations, and determine whether it deserves further development.
 
 ---
 
@@ -52,7 +58,7 @@ Decision-support systems, LLM applications, agentic workflows, orchestration pip
 
 ### Computational Research
 
-Scientific exploration, anomaly analysis, signal and time-series analysis, computational experimentation, and research-oriented prototypes.
+Scientific exploration, anomaly analysis, signal and time-series analysis, computational experimentation, research-oriented prototypes, and open, reproducible research practices.
 
 ### Analytics & Visualization
 
@@ -60,7 +66,7 @@ Exploratory analysis, dashboards, KPI design, data storytelling, business intell
 
 ### Technical Education
 
-AI and data mentoring, curriculum design, educational technology, technical writing, and project-based learning.
+AI and data mentoring, higher-education technical teaching, curriculum design, educational technology, technical writing, project assessment, and project-based learning.
 
 ---
 
@@ -78,9 +84,35 @@ My systems perspective was strongly shaped by autonomous driving, where percepti
 
 ---
 
+## Technical Formation
+
+My route into AI has been cumulative rather than sudden.
+
+Beginning with a **Google Developer Scholarship Challenge in 2017**, I pursued sustained technical development through professional programmes, specialist courses, self-directed study, and increasingly complex projects across software development, machine learning, deep learning, reinforcement learning, autonomous systems, computer vision, cloud technologies, data science, and generative AI.
+
+This included learning through ecosystems such as **Udacity, AWS, Coursera, Intel/OpenVINO, specialist AI academies, and other professional technical programmes**, alongside extensive project-based practice.
+
+That progression eventually led to formal postgraduate study and an **MSc in Artificial Intelligence with First Class Honours**.
+
+The purpose of this GitHub is therefore not simply to collect projects. It documents an evolving technical practice: learning, building, testing ideas, investigating questions, and making that work inspectable.
+
+---
+
+## Research & Open Science
+
+My independent research explores how computation can help us inspect complex systems, identify structure, represent uncertainty, and generate questions worth investigating further.
+
+Current interests include scientific triage, signal and time-series analysis, multimodal data, computational representations, anomaly detection, human–AI collaboration, and exploratory scientific visualization.
+
+I am particularly interested in research artefacts that remain **inspectable and reproducible**: repositories, notebooks, datasets, visualizations, documented experiments, and openly shared outputs.
+
+**ORCID:** [0009-0009-4663-9778](https://orcid.org/0009-0009-4663-9778)
+
+---
+
 ## Research & Writing
 
-Alongside technical work, I write about AI, language, cognition, representation, science, and the structural implications of emerging technologies.
+Alongside technical work, I write about AI, language, cognition, representation, mathematics, science, and the structural implications of emerging technologies.
 
 - [**The Linguistic Creature: Language, AI, and the Survival of Information**](https://medium.com/@sabrina.jorgenson/the-linguistic-creature-language-ai-and-the-survival-of-information-4e8ac16acf4b)
 - [**I Asked AI to Rate My Face. It Modeled My Mind Instead**](https://medium.com/@sabrina.jorgenson/i-asked-ai-to-rate-my-face-it-modeled-my-mind-instead-cd9e0546dbc5)
@@ -89,17 +121,27 @@ Alongside technical work, I write about AI, language, cognition, representation,
 
 ---
 
-## Teaching & Mentoring
+## Teaching, Mentoring & Assessment
 
-Education was my route into technology and remains part of my technical practice. I mentor learners, teach AI and data subjects, and design resources that help people move beyond reproducing procedures toward understanding systems, making decisions, and explaining their reasoning.
+Education was my original professional field and remains an integral part of my technical practice.
+
+I currently work with learners in AI, data, analytics, and related technical subjects through **mentoring, teaching, project assessment, curriculum development, and the design of learning resources**.
+
+My approach emphasizes understanding systems rather than reproducing procedures: learners should be able to explain what they built, why they made particular technical choices, what the limitations are, and how evidence supports their conclusions.
+
+My background in education also informs how I design AI systems: interfaces, explanations, uncertainty, human oversight, and the way complex information is communicated are not secondary concerns. They are part of the system itself.
 
 ---
 
-## An Unconventional Path
+## A Cross-Disciplinary Practice
 
-I entered technology from education, languages, and the humanities. A Google Developer Scholarship Challenge in 2017 led to sustained study across software development, deep learning, reinforcement learning, autonomous systems, data science, computer vision, and generative AI, culminating in an **MSc in Artificial Intelligence with First Class Honours** in 2026.
+I entered technology from education, languages, and the humanities rather than through a conventional engineering pathway.
 
-That path continues to shape how I build: with attention to evidence, clarity, explainability, uncertainty, and the people who must ultimately use a system.
+Instead of replacing that earlier background, technical study expanded it.
+
+The result is a practice that moves between **AI systems, data, research, education, scientific inquiry, and communication**. That cross-disciplinary perspective shapes both the problems I choose and the way I approach them.
+
+I am particularly drawn to work where computation is not merely used to automate a task, but to help people **see structure, examine evidence, explore uncertainty, learn, or make more informed decisions**.
 
 ---
 
