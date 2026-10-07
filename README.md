@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="minervarose-banner-en.gif" width="100%" alt="MinervaRose — Sabrina Palis Jorgenson"/>
+# Sabrina Palis Jorgenson
+
+### AI Systems & Data Specialist · Independent Researcher · Higher-Education Technical Educator & Mentor
+
+**Applied AI Systems · Computational Research · Decision Support · Technical Education**
+
+*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS · Generative AI Certification Juror*
 
 [🇫🇷 Version française](README_FR.md)
 
-<br>
-
 [**Portfolio**](https://minervarose.github.io/) · [**ORCID**](https://orcid.org/0009-0009-4663-9778) · [**Medium**](https://medium.com/@sabrina.jorgenson) · [**LinkedIn**](https://www.linkedin.com/in/sabrina-jp/)
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-AI_&_Data_Systems-f06292?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Computational_Research-f48fb1?style=for-the-badge&logo=jupyter&logoColor=white)
-![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI-Human--Centered_Systems-c2185b?style=for-the-badge)
-
-*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS · Generative AI Certification Juror*
+![Python](https://img.shields.io/badge/Python-AI_%26_Data-f06292?style=flat-square&logo=python&logoColor=white)
+![AI Systems](https://img.shields.io/badge/AI_Systems-Decision_Support-c2185b?style=flat-square)
+![Research](https://img.shields.io/badge/Research-Computational_%26_Reproducible-e91e63?style=flat-square)
+![Education](https://img.shields.io/badge/Education-Mentoring_%26_Assessment-f48fb1?style=flat-square)
 
 </div>
 
@@ -23,48 +23,47 @@
 
 I build and evaluate **AI and data systems for complex decisions, computational research, and technical learning**.
 
-My work sits at the intersection of **applied AI, data, scientific computing, and education**, with particular attention to **evidence, uncertainty, auditability, reproducibility, explainability, and human judgement**.
+My work combines **applied AI, scientific computing, analytics, and education**, with particular attention to **evidence, uncertainty, auditability, reproducibility, explainability, and human judgement**.
 
-My technical practice has developed continuously since 2017 through scholarship-supported programmes, nanodegrees, specialist study, project work, and postgraduate education, culminating in an **MSc in Artificial Intelligence with First Class Honours**.
+My technical practice has developed continuously since 2017 through scholarships, nanodegrees, specialist programmes, project work, and postgraduate study. I use GitHub as a record of that practice: not only finished applications, but also reproducible experiments, technical reports, notebooks, and research artefacts.
 
 ---
 
-## ✦ Featured Work
+## ✦ Selected Technical Work
 
-| Project | Focus |
+| Project | What it demonstrates |
 | --- | --- |
-| 🚀 [**Industry-Integrated AI Systems Synthesis**](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | Auditable AI decision-support architecture for aerospace safety |
-| 📊 [**BeLedgerReady**](https://github.com/MinervaRose/BeLedgerReady)| Financial anomaly analysis and audit-readiness decision support |
-| 🐦 [**bioacoustic-topology**](https://github.com/MinervaRose/bioacoustic-topology) | Computational exploration of structure and dynamics in birdsong |
-| 🔥 **PyroNav** | Wildfire evacuation PWA with hazard-aware routing |
-| 🪐 [**Exoplanet Discovery Observatory**](https://github.com/MinervaRose/exoplanet-discovery-observatory) | Scientific data exploration and visualisation using exoplanet data |
-| 🧩 [**Clues**](https://github.com/MinervaRose/clues) | Evidence-oriented debugging and reasoning tools for technical learning |
+| 🚀 [**Industry-Integrated AI Systems Synthesis**](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | Auditable AI decision support for aerospace anomaly triage, with explicit architecture, evaluation, documentation, and reproducible analysis |
+| 📊 [**BeLedgerReady**](https://github.com/MinervaRose/BeLedgerReady) | Full-stack audit-readiness assistant combining deterministic analytics, explainable AI, human review, synthetic demo data, and documented safeguards |
+| 🐦 [**bioacoustic-topology**](https://github.com/MinervaRose/bioacoustic-topology) | Computational bioacoustics using manifold learning, dynamical systems, motif structure, and scientific visualisation |
+| 🪐 [**Exoplanet Discovery Observatory**](https://github.com/MinervaRose/exoplanet-discovery-observatory) | Scientific data exploration and Tableau visualisation using NASA Exoplanet Archive data |
+| 🧩 [**Clues**](https://github.com/MinervaRose/clues) | Python package for evidence-oriented exception investigation, with tests, packaging, CI, and human-readable diagnostic reports |
 
-These projects reflect the areas I care about most: **building systems that remain inspectable, making evidence visible, and using computation to support rather than replace judgement**.
+These projects span **AI systems, scientific computing, analytics, visualisation, developer tooling, and decision support**. The common thread is a preference for systems whose reasoning, evidence, and limitations remain visible.
 
 ---
 
-## ✦ Areas of Practice
+## ✦ Professional Practice
 
-### Applied AI Systems
-Decision-support systems, LLM applications, agentic workflows, machine learning, computer vision, explainable AI, orchestration pipelines, and human-in-the-loop architectures.
+### AI Systems & Data
+I design and evaluate applied AI and data workflows using Python, SQL, machine learning, LLM systems, analytics, dashboards, and decision-support logic.
 
-### Computational Research
-Scientific exploration, anomaly analysis, signal and time-series analysis, computational experimentation, scientific visualisation, and research-oriented prototypes.
-
-### Analytics & Visualisation
-Exploratory analysis, dashboards, KPI design, data storytelling, business intelligence, and visual decision support.
+### Research
+I explore computational approaches to scientific and technical questions, particularly where **structure, uncertainty, signals, anomalies, multimodal data, and visualisation** matter.
 
 ### Technical Education
-Higher-education technical teaching, AI and data mentoring, curriculum design, project assessment, educational technology, technical writing, and project-based learning.
+I teach and mentor across AI, data analysis, business intelligence, data science, machine learning, Python, SQL, and generative AI. My work includes curriculum development, project-based learning, technical feedback, and assessment.
+
+### Certification & Evaluation
+I serve as a **Generative AI Certification Juror & Evaluator**, assessing practical deliverables, technical reasoning, methodology, documentation, communication, and responsible AI practice.
 
 ---
 
 ## ✦ Research & Open Science
 
-I am particularly interested in research artefacts that remain **inspectable, reproducible, and attributable**: repositories, notebooks, datasets, visualisations, documented experiments, technical reports, and versioned releases.
+I am particularly interested in research artefacts that remain **inspectable, reproducible, and attributable**: repositories, notebooks, datasets, visualisations, technical reports, documented experiments, and versioned releases.
 
-For new research and capstone releases, I use clear versioning and provenance, including Zenodo and DOI records where appropriate.
+For new research and capstone releases, I use clear versioning and provenance, including **Zenodo and DOI records where appropriate**.
 
 **ORCID:** [0009-0009-4663-9778](https://orcid.org/0009-0009-4663-9778)
 
@@ -86,7 +85,7 @@ Systems                   Agentic Workflows • Human-in-the-Loop AI • Decisio
 
 My systems perspective was strongly shaped by autonomous driving, where perception, localisation, prediction, planning, and control must work together under uncertainty.
 
-Earlier work in this field is collected in the [Self-Driving Car Engineer portfolio](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects).
+Earlier work in this field is collected in the [**Self-Driving Car Engineer portfolio**](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects).
 
 ---
 
@@ -94,12 +93,10 @@ Earlier work in this field is collected in the [Self-Driving Car Engineer portfo
 
 My route into AI has been **cumulative rather than sudden**.
 
-Beginning with the **Google Developer Scholarship Challenge in 2017**, I pursued sustained technical development through project-based programmes, scholarships, nanodegrees, specialist courses, and self-directed study across software development, machine learning, deep learning, reinforcement learning, autonomous systems, computer vision, data science, cloud technologies, and generative AI.
-
-That progression eventually led to formal postgraduate study and an **MSc in Artificial Intelligence with First Class Honours**.
+Beginning with the **Google Developer Scholarship Challenge in 2017**, I pursued sustained technical development through project-based programmes, scholarships, nanodegrees, specialist study, and self-directed work.
 
 <details>
-<summary><strong>Selected technical programmes, nanodegrees & scholarships</strong></summary>
+<summary><strong>Selected programmes, nanodegrees & scholarships</strong></summary>
 
 <br>
 
@@ -107,33 +104,22 @@ That progression eventually led to formal postgraduate study and an **MSc in Art
 - Facebook AI Scholarship
 - Bertelsmann Data Science Scholarship
 - Self-Driving Car Engineer Nanodegree
-- Deep Learning studies and project work
+- Deep Learning Nanodegree
 - Generative AI Nanodegree
 - AWS technical training and cloud foundations
-- Computer vision, reinforcement learning, autonomous systems, data science, and applied AI programmes
-- Continued specialist study in analytics, scientific computing, Spark/Databricks, and modern AI tooling
+- Continued specialist study across computer vision, reinforcement learning, data science, scientific computing, Spark/Databricks, and modern AI tooling
 
 </details>
 
-This GitHub documents that progression through **projects, notebooks, experiments, systems, and research artefacts**, rather than treating credentials as an endpoint in themselves.
+That progression eventually led to an **MSc in Artificial Intelligence with First Class Honours**.
 
----
-
-## ✦ Teaching, Mentoring & Assessment
-
-Education was my original professional field and remains an integral part of my technical practice.
-
-I work across **higher-education technical teaching, AI and data mentoring, curriculum development, project assessment, and professional certification**. I support learners working in data analysis, business intelligence, data engineering, data science, machine learning, Python, SQL, model evaluation, and generative AI.
-
-I also serve as a **Generative AI Certification Juror & Evaluator**, assessing practical work, technical reasoning, methodology, documentation, communication, and responsible AI practice.
-
-My approach is demanding but learner-centred: the goal is not simply to complete a task, but to understand **what was built, why particular choices were made, what the limitations are, and what the evidence actually supports**.
+My earlier academic formation also includes an **MA in Education with Merit**, an **MBA**, and a **PGCE with Qualified Teacher Status**.
 
 ---
 
 ## ✦ Selected Writing
 
-I write about AI, scientific reasoning, mathematics, representation, education, and the limits of what our systems allow us to know.
+I write about AI, scientific reasoning, mathematics, representation, language, and the limits of what our systems allow us to know.
 
 - [**Perhaps AI Has Been Defined at the Wrong Scale**](https://medium.com/@sabrina.jorgenson/perhaps-ai-has-been-defined-at-the-wrong-scale-7e07da2e8318)
 - [**When Correct Answers Make Us Know Less**](https://medium.com/@sabrina.jorgenson/when-correct-answers-make-us-know-less-8d67d407d932)
@@ -146,11 +132,17 @@ I write about AI, scientific reasoning, mathematics, representation, education, 
 
 ---
 
+## ✦ How I Work
+
+**Evidence before claims · Reproducibility where it matters · Uncertainty made visible · Human judgement remains central**
+
+I am most interested in work where computation does more than automate a task: where it helps people **inspect evidence, see structure, test assumptions, understand uncertainty, or make better decisions**.
+
+---
+
 ## ✦ Beyond the Code
 
-I entered technology through **education, languages, and the humanities rather than a conventional engineering pathway**. Technical study expanded that earlier background rather than replacing it.
-
-The result is a practice that moves between **AI systems, data, research, education, scientific inquiry, and communication**.
+I entered technology through **education, languages, and the humanities rather than a conventional engineering pathway**. Technical study expanded that background rather than replacing it.
 
 Literature, language, music, and a persistent fascination with space continue to influence the questions I explore, even when the result takes the form of a technical system.
 
@@ -161,3 +153,9 @@ Literature, language, music, and a persistent fascination with space continue to
 ### ✦ Curiositas ad Lucem ✦
 
 </div>
+'''
+
+path = out / "README.md"
+path.write_text(readme, encoding="utf-8")
+
+print(path)
