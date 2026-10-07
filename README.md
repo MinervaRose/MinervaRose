@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="cosmic-banner.png" width="100%" alt="Cosmic banner"/>
+
+<br>
+
 # Sabrina Palis Jorgenson
 
 ### AI Systems & Data Specialist · Independent Researcher · Higher-Education Technical Educator & Mentor
