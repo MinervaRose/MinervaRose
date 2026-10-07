@@ -15,6 +15,8 @@
 ![Education](https://img.shields.io/badge/Education-Mentoring_&_Pedagogy-f8bbd0?style=for-the-badge)
 ![AI Systems](https://img.shields.io/badge/AI-Human--Centered_Systems-c2185b?style=for-the-badge)
 
+*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS · Generative AI Certification Juror*
+
 </div>
 
 ---
@@ -32,11 +34,11 @@ My technical practice has developed continuously since 2017 through scholarship-
 | Project | Focus |
 | --- | --- |
 | 🚀 [**Industry-Integrated AI Systems Synthesis**](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | Auditable AI decision-support architecture for aerospace safety |
-| 📊 **BeLedgerReady** | Financial anomaly analysis and audit-readiness decision support |
-| 🐦 **bioacoustic-topology** | Computational exploration of structure and dynamics in birdsong |
+| 📊 [**BeLedgerReady**](https://github.com/MinervaRose/BeLedgerReady)| Financial anomaly analysis and audit-readiness decision support |
+| 🐦 [**bioacoustic-topology**](https://github.com/MinervaRose/bioacoustic-topology) | Computational exploration of structure and dynamics in birdsong |
 | 🔥 **PyroNav** | Wildfire evacuation PWA with hazard-aware routing |
-| 🪐 **Exoplanet Discovery Observatory** | Scientific data exploration and visualisation using exoplanet data |
-| 🧩 **Clues** | Evidence-oriented debugging and reasoning tools for technical learning |
+| 🪐 [**Exoplanet Discovery Observatory**](https://github.com/MinervaRose/exoplanet-discovery-observatory) | Scientific data exploration and visualisation using exoplanet data |
+| 🧩 [**Clues**](https://github.com/MinervaRose/clues) | Evidence-oriented debugging and reasoning tools for technical learning |
 
 These projects reflect the areas I care about most: **building systems that remain inspectable, making evidence visible, and using computation to support rather than replace judgement**.
 
@@ -62,7 +64,7 @@ Higher-education technical teaching, AI and data mentoring, curriculum design, p
 
 I am particularly interested in research artefacts that remain **inspectable, reproducible, and attributable**: repositories, notebooks, datasets, visualisations, documented experiments, technical reports, and versioned releases.
 
-Selected research and capstone work is published with clear provenance, including **Zenodo and DOI records where appropriate**.
+For new research and capstone releases, I use clear versioning and provenance, including Zenodo and DOI records where appropriate.
 
 **ORCID:** [0009-0009-4663-9778](https://orcid.org/0009-0009-4663-9778)
 
@@ -88,7 +90,7 @@ Earlier work in this field is collected in the [Self-Driving Car Engineer portfo
 
 ---
 
-## ✦ Technical Formation
+## ✦ Technical Development, Scholarships & Nanodegrees
 
 My route into AI has been **cumulative rather than sudden**.
 
@@ -129,24 +131,18 @@ My approach is demanding but learner-centred: the goal is not simply to complete
 
 ---
 
-## ✦ Research & Writing
+## ✦ Selected Writing
 
-Alongside technical work, I write about AI, language, cognition, representation, mathematics, science, and the structural implications of emerging technologies.
+I write about AI, scientific reasoning, mathematics, representation, education, and the limits of what our systems allow us to know.
 
-- [**The Linguistic Creature: Language, AI, and the Survival of Information**](https://medium.com/@sabrina.jorgenson/the-linguistic-creature-language-ai-and-the-survival-of-information-4e8ac16acf4b)
-- [**I Asked AI to Rate My Face. It Modeled My Mind Instead**](https://medium.com/@sabrina.jorgenson/i-asked-ai-to-rate-my-face-it-modeled-my-mind-instead-cd9e0546dbc5)
-- [**The World Is Not Made Of Things**](https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2)
-- [**Spinors at the Intersection of Two Geometries**](https://medium.com/@sabrina.jorgenson/spinors-at-the-intersection-of-two-geometries-1de69fed2305)
+- [**Perhaps AI Has Been Defined at the Wrong Scale**](https://medium.com/@sabrina.jorgenson/perhaps-ai-has-been-defined-at-the-wrong-scale-7e07da2e8318)
+- [**When Correct Answers Make Us Know Less**](https://medium.com/@sabrina.jorgenson/when-correct-answers-make-us-know-less-8d67d407d932)
+- [**The Human Was in the Loop. Was There Enough Time?**](https://medium.com/@sabrina.jorgenson/the-human-was-in-the-loop-was-there-enough-time-aa388bb71afc)
+- [**What Comes Before Symmetry?**](https://medium.com/@sabrina.jorgenson/what-comes-before-symmetry-557bb2e1a70b)
+- [**The World Is Not Made of Things**](https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2)
+- [**AI Narrans**](https://medium.com/@sabrina.jorgenson/ai-narrans-bc4ed5239ce6)
 
----
-
-## ✦ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinervaRose&bg_color=0d1117&color=f8bbd0&line=f06292&point=fcb045&area=true&hide_border=true" alt="MinervaRose GitHub activity graph"/>
-
-</div>
+[**More writing on Medium →**](https://medium.com/@sabrina.jorgenson)
 
 ---
 
