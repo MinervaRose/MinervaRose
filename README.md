@@ -157,9 +157,3 @@ Literature, language, music, and a persistent fascination with space continue to
 ### ✦ Curiositas ad Lucem ✦
 
 </div>
-'''
-
-path = out / "README.md"
-path.write_text(readme, encoding="utf-8")
-
-print(path)
