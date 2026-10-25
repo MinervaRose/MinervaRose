@@ -6,11 +6,11 @@
 
 # Sabrina Palis Jorgenson
 
-### AI Systems & Data Specialist · Independent Researcher · Higher-Education Technical Educator & Mentor
+### Independent Researcher · AI Systems & Data Specialist · Subject Matter Expert & Technical Educator
 
-**Applied AI Systems · Computational Research · Decision Support · Technical Education**
+**Interdisciplinary Research · Scientific Computing · AI Systems & Evaluation · Technical Communication**
 
-*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS · Generative AI Certification Juror*
+*MSc Artificial Intelligence — First Class Honours · MBA · Master in AI for Business · MA Education — Merit · PGCE/QTS*
 
 [🇫🇷 Version française](README_FR.md)
 
