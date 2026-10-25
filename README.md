@@ -126,12 +126,12 @@ That progression eventually led to an **MSc in Artificial Intelligence with Firs
 
 My formal studies span **languages and literature, education, management, and artificial intelligence**. They reflect different stages of a continuing intellectual journey, rather than a single disciplinary track.
 
-- **MSc Artificial Intelligence — First Class Honours** · Woolf University / Udacity Institute of AI & Technology · 2026
-- **MBA — Management, Marketing & Data** · ENEB, Spain · 2025
-- **Master in AI for Business** · Universidad Isabel I · 2025
-- **MA Education — Merit** · University of Nottingham · 2014
-- **PGCE Modern Foreign Languages with Qualified Teacher Status (QTS)** · University of Wales Institute, Cardiff · 2011
-- **BA English Language & Literature (LLCE)** · Université Rennes 2 · 2002
+- **MSc Artificial Intelligence — First Class Honours** · 2026
+- **MBA — Management, Marketing & Data** · 2025
+- **Master in AI for Business** · 2025
+- **MA Education — Merit** · 2014
+- **PGCE Modern Foreign Languages with QTS** · 2011
+- **BA English Language & Literature (LLCE)** · 2002
 
 ---
 
