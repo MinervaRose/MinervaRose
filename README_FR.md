@@ -2,13 +2,15 @@
 
 <img src="cosmic-banner.png" width="100%" alt="Bannière cosmique MinervaRose"/>
 
+<br>
+
 # Sabrina Palis Jorgenson
 
-### Spécialiste systèmes d’IA & Data · Chercheuse indépendante · Enseignante technique dans l’enseignement supérieur & mentore
+### Chercheuse indépendante · Spécialiste IA & données · Enseignante et évaluatrice
 
-**Systèmes d’IA appliquée · Recherche computationnelle · Aide à la décision · Formation technique**
+**Intelligence artificielle · Recherche scientifique · Analyse de données · Enseignement**
 
-*MSc Artificial Intelligence — First Class Honours · MA Education — Merit · PGCE/QTS · Jurée de certification en IA générative*
+*MSc en intelligence artificielle — First Class Honours · MBA · Master AI for Business · MA Education · PGCE/QTS*
 
 [🇬🇧 English version](README.md)
 
@@ -23,84 +25,72 @@
 
 ---
 
-Je conçois et j’évalue des **systèmes d’IA et de données pour la prise de décision complexe, la recherche computationnelle et l’apprentissage technique**.
+Je m'intéresse à **ce que l'intelligence artificielle et les données peuvent nous aider à comprendre**, mais aussi aux limites de ces outils. Mes projets mêlent recherche, programmation, analyse, visualisation et enseignement.
 
-Mon travail associe **IA appliquée, calcul scientifique, analyse de données et éducation**, avec une attention particulière portée aux **preuves, à l’incertitude, à l’auditabilité, à la reproductibilité, à l’explicabilité et au jugement humain**.
-
-Ma pratique technique se développe de façon continue depuis 2017 à travers des bourses, des Nanodegrees, des programmes spécialisés, des projets et des études de niveau postgraduate. J’utilise GitHub comme une trace de cette pratique : non seulement pour des applications finalisées, mais aussi pour des expériences reproductibles, des rapports techniques, des notebooks et des artefacts de recherche.
+Mon parcours a commencé par **les langues, la littérature et l'éducation**, avant de s'élargir aux sciences et à l'IA. Je cherche à produire un travail rigoureux, dont on peut vérifier les résultats, comprendre les choix et discuter les incertitudes.
 
 ---
 
-## ✦ Projets techniques sélectionnés
+## ✦ Quelques projets
 
-| Projet | Ce qu’il met en évidence |
+| Projet | En quelques mots |
 | --- | --- |
-| 🚀 [**Industry-Integrated AI Systems Synthesis**](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | Aide à la décision par IA auditable pour le triage d’anomalies dans l’aérospatial, avec architecture explicite, évaluation, documentation et analyse reproductible |
-| 📊 [**BeLedgerReady**](https://github.com/MinervaRose/BeLedgerReady) | Assistant full-stack de préparation à l’audit associant analyses déterministes, IA explicable, revue humaine, données synthétiques de démonstration et garde-fous documentés |
-| 🐦 [**bioacoustic-topology**](https://github.com/MinervaRose/bioacoustic-topology) | Bioacoustique computationnelle mobilisant apprentissage de variétés, systèmes dynamiques, structure de motifs et visualisation scientifique |
-| 🪐 [**Exoplanet Discovery Observatory**](https://github.com/MinervaRose/exoplanet-discovery-observatory) | Exploration scientifique des données et visualisation sous Tableau à partir des données de la NASA Exoplanet Archive |
-| 🧩 [**Clues**](https://github.com/MinervaRose/clues) | Package Python pour l’investigation d’exceptions orientée preuves, avec tests, packaging, CI et rapports diagnostiques lisibles par l’humain |
+| 🚀 [**Industry-Integrated AI Systems Synthesis**](https://github.com/MinervaRose/industry-integrated-ai-systems-synthesis) | Système d'aide à l'analyse d'anomalies aérospatiales, avec contrôle humain et résultats vérifiables |
+| 📊 [**BeLedgerReady**](https://github.com/MinervaRose/BeLedgerReady) | Outil d'analyse financière pour préparer un audit, avec vérifications et revue humaine |
+| 🐦 [**bioacoustic-topology**](https://github.com/MinervaRose/bioacoustic-topology) | Exploration des chants d'oiseaux à l'aide de méthodes mathématiques et de visualisations |
+| 🪐 [**Exoplanet Discovery Observatory**](https://github.com/MinervaRose/exoplanet-discovery-observatory) | Exploration et visualisation de données de la NASA sur les exoplanètes |
+| 🧩 [**Clues**](https://github.com/MinervaRose/clues) | Outil Python pour analyser des erreurs et produire des rapports compréhensibles |
 
-Ces projets couvrent **systèmes d’IA, calcul scientifique, analyse, visualisation, outils pour développeurs et aide à la décision**. Leur fil conducteur est une préférence pour des systèmes dont le raisonnement, les preuves et les limites restent visibles.
-
----
-
-## ✦ Pratique professionnelle
-
-### Systèmes d’IA & Data
-Je conçois et j’évalue des workflows d’IA appliquée et de data à l’aide de Python, SQL, machine learning, systèmes LLM, analyses, tableaux de bord et logiques d’aide à la décision.
-
-### Recherche
-J’explore des approches computationnelles appliquées à des questions scientifiques et techniques, notamment lorsque **structure, incertitude, signaux, anomalies, données multimodales et visualisation** jouent un rôle central.
-
-### Formation technique
-J’enseigne et j’accompagne des apprenants en IA, analyse de données, business intelligence, data science, machine learning, Python, SQL et IA générative. Mon travail comprend la conception pédagogique, l’apprentissage par projets, le feedback technique et l’évaluation.
-
-### Certification & Évaluation
-Je suis **jurée et évaluatrice de certification en IA générative**. J’évalue des livrables pratiques, le raisonnement technique, la méthodologie, la documentation, la communication et les usages responsables de l’IA.
+J'aime les projets qui permettent de **poser de nouvelles questions, tester des idées et rendre les résultats lisibles**.
 
 ---
 
-## ✦ Recherche & Science ouverte
+## ✦ Mes activités
 
-Je m’intéresse particulièrement aux artefacts de recherche qui restent **inspectables, reproductibles et attribuables** : dépôts, notebooks, jeux de données, visualisations, rapports techniques, expériences documentées et versions publiées.
+### Recherche et systèmes d'IA
 
-Pour mes nouveaux travaux de recherche et mes nouveaux capstones, j’utilise un versionnage et une provenance explicites, avec **Zenodo et des DOI lorsque cela est pertinent**.
+Je développe et j'évalue des projets d'IA, d'analyse de données et d'aide à la décision. J'explore aussi des sujets scientifiques, notamment les signaux, les anomalies, les systèmes complexes et la manière de représenter l'incertitude.
+
+### Expertise et évaluation
+
+Depuis juillet 2026, je travaille comme **experte métier en IA et données** (*Subject Matter Expert*) : je vérifie la qualité et l'exactitude de contenus de formation professionnelle. Je suis également **jurée de certification en IA générative**, chargée d'évaluer les réalisations et les choix des candidats.
+
+### Enseignement et mentorat
+
+J'enseigne dans le supérieur et j'accompagne des apprenants en analyse de données, programmation et IA. J'aime autant expliquer des concepts que questionner une méthode ou aider à comprendre un résultat.
+
+---
+
+## ✦ Recherche et science ouverte
+
+Je privilégie les travaux que d'autres peuvent **consulter, comprendre et reproduire** : code, notebooks, jeux de données, visualisations et rapports. Lorsque c'est pertinent, je publie mes travaux avec un archivage et des références durables (Zenodo, DOI).
+
+**Mes sujets de prédilection :** découverte scientifique, analyse de signaux, détection d'anomalies, relations entre disciplines, collaboration humain–IA et décisions prises dans l'incertitude.
 
 **ORCID :** [0009-0009-4663-9778](https://orcid.org/0009-0009-4663-9778)
 
-Mes intérêts actuels et émergents comprennent :
-
-**triage scientifique · analyse de signaux et séries temporelles · données multimodales · détection d’anomalies · collaboration humain–IA · visualisation scientifique · aide à la décision sous incertitude**
-
 ---
 
-## ✦ Fondations techniques
+## ✦ Compétences techniques
 
 ```text
-Langages & développement  Python • SQL • Jupyter • Git • GitHub
-IA & Machine Learning     ML • Deep Learning • NLP • Systèmes LLM • Vision par ordinateur
-Data & Analyse            Tableau • Power BI • EDA • Visualisation de données • Conception de KPI
-Recherche                 Calcul scientifique • Analyse de signaux • Détection d’anomalies
-Systèmes                  Workflows agentiques • IA avec supervision humaine • Aide à la décision
+Programmation        Python · SQL · Git · GitHub · Jupyter
+IA                   Machine learning · Deep learning · NLP · LLM · Vision
+Données              Analyse · Tableau · Power BI · Visualisation
+Recherche            Calcul scientifique · Signaux · Détection d'anomalies
+Systèmes             Agents IA · Supervision humaine · Aide à la décision
 ```
 
-Ma vision des systèmes a été fortement façonnée par la conduite autonome, où perception, localisation, prédiction, planification et contrôle doivent fonctionner ensemble dans l’incertitude.
-
-Mes travaux antérieurs dans ce domaine sont réunis dans mon [**portfolio Self-Driving Car Engineer**](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects).
+Mon intérêt pour les systèmes complexes s'est notamment développé avec la conduite autonome. Mes premiers projets sont réunis dans mon [**portfolio Self-Driving Car Engineer**](https://github.com/MinervaRose/Self-Driving-Car-Engineer-Nanodegree-Projects).
 
 ---
 
-## ✦ Développement technique, bourses & Nanodegrees
+## ✦ Un parcours construit dans la durée
 
-Mon parcours vers l’IA a été **cumulatif plutôt que soudain**.
-
-À partir du **Google Developer Scholarship Challenge en 2017**, j’ai poursuivi un développement technique continu à travers des programmes basés sur des projets, des bourses, des Nanodegrees, des formations spécialisées et du travail autodirigé.
+Depuis ma sélection au **Google Developer Scholarship Challenge en 2017**, j'ai continué à me former par des projets, des programmes spécialisés et des travaux personnels. Ce chemin m'a conduite à un **MSc en intelligence artificielle, obtenu avec First Class Honours**.
 
 <details>
-<summary><strong>Sélection de programmes, Nanodegrees & bourses</strong></summary>
-
-<br>
+<summary><strong>Voir quelques bourses et formations techniques</strong></summary>
 
 - Google Developer Scholarship Challenge
 - Facebook AI Scholarship
@@ -108,45 +98,24 @@ Mon parcours vers l’IA a été **cumulatif plutôt que soudain**.
 - Self-Driving Car Engineer Nanodegree
 - Deep Learning Nanodegree
 - Generative AI Nanodegree
-- Formations techniques AWS et fondamentaux du cloud
-- Formation spécialisée continue en vision par ordinateur, apprentissage par renforcement, data science, calcul scientifique, Spark/Databricks et outils modernes d’IA
+- Formations AWS, vision par ordinateur, apprentissage par renforcement et data science
 
 </details>
 
-Cette progression m’a ensuite conduite à un **MSc in Artificial Intelligence obtenu avec First Class Honours**.
+### Formation universitaire
 
-Ma formation académique antérieure comprend également un **MA in Education avec Merit**, un **MBA**, ainsi qu’un **PGCE avec Qualified Teacher Status**.
-
----
-
-## ✦ Écrits sélectionnés
-
-J’écris sur l’IA, le raisonnement scientifique, les mathématiques, la représentation, le langage et les limites de ce que nos systèmes nous permettent de connaître.
-
-- [**Perhaps AI Has Been Defined at the Wrong Scale**](https://medium.com/@sabrina.jorgenson/perhaps-ai-has-been-defined-at-the-wrong-scale-7e07da2e8318)
-- [**When Correct Answers Make Us Know Less**](https://medium.com/@sabrina.jorgenson/when-correct-answers-make-us-know-less-8d67d407d932)
-- [**The Human Was in the Loop. Was There Enough Time?**](https://medium.com/@sabrina.jorgenson/the-human-was-in-the-loop-was-there-enough-time-aa388bb71afc)
-- [**What Comes Before Symmetry?**](https://medium.com/@sabrina.jorgenson/what-comes-before-symmetry-557bb2e1a70b)
-- [**The World Is Not Made of Things**](https://medium.com/@sabrina.jorgenson/the-world-is-not-made-of-things-a486eb9b84c2)
-- [**AI Narrans**](https://medium.com/@sabrina.jorgenson/ai-narrans-bc4ed5239ce6)
-
-[**Plus d’articles sur Medium →**](https://medium.com/@sabrina.jorgenson)
-
----
-
-## ✦ Ma façon de travailler
-
-**Les preuves avant les affirmations · Reproductibilité lorsqu’elle est pertinente · Incertitude rendue visible · Le jugement humain reste central**
-
-Je m’intéresse avant tout aux usages du calcul qui vont au-delà de l’automatisation : lorsqu’il aide à **examiner les preuves, voir les structures, tester des hypothèses, comprendre l’incertitude ou prendre de meilleures décisions**.
+- **MSc Artificial Intelligence — First Class Honours** · Woolf University / Udacity Institute · 2026
+- **MBA — Management, Marketing & Data** · ENEB · 2025
+- **Master in AI for Business** · Universidad Isabel I · 2025
+- **MA Education — Merit** · University of Nottingham · 2014
+- **PGCE en langues vivantes, avec Qualified Teacher Status (QTS)** · University of Wales Institute, Cardiff · 2011
+- **Licence LLCE d'anglais** · Université Rennes 2 · 2002
 
 ---
 
 ## ✦ Au-delà du code
 
-Je suis entrée dans la technologie par **l’éducation, les langues et les humanités plutôt que par une voie d’ingénierie conventionnelle**. La formation technique a élargi ce socle au lieu de le remplacer.
-
-La littérature, le langage, la musique et une fascination persistante pour l’espace continuent d’influencer les questions que j’explore, même lorsque le résultat prend la forme d’un système technique.
+La littérature, les langues, la musique et l'espace occupent toujours une place importante dans ma vie. Ils nourrissent ma curiosité et influencent mes projets, y compris les plus techniques.
 
 <div align="center">
 
