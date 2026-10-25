@@ -25,11 +25,11 @@
 
 ---
 
-I build and evaluate **AI and data systems for complex decisions, computational research, and technical learning**.
+I explore **how AI, data, and computation can help us understand complex systems**, and where their assumptions and limitations matter. That inquiry takes different forms: computational experiments, decision-support systems, expert reviews, educational work, and writing.
 
-My work combines **applied AI, scientific computing, analytics, and education**, with particular attention to **evidence, uncertainty, auditability, reproducibility, explainability, and human judgement**.
+My work brings together **applied AI, scientific computing, interdisciplinary research, and education**, informed by a background in languages and the humanities. Across these areas, I place particular importance on **evidence, uncertainty, auditability, reproducibility, explainability, and human judgement**.
 
-My technical practice has developed continuously since 2017 through scholarships, nanodegrees, specialist programmes, project work, and postgraduate study. I use GitHub as a record of that practice: not only finished applications, but also reproducible experiments, technical reports, notebooks, and research artefacts.
+My technical practice has developed continuously since 2017 through scholarships, nanodegrees, specialist programmes, independent projects, and postgraduate study. I use GitHub to document that ongoing exploration through reproducible experiments, technical reports, notebooks, research artefacts, and working software.
 
 ---
 
@@ -53,7 +53,10 @@ These projects span **AI systems, scientific computing, analytics, visualisation
 I design and evaluate applied AI and data workflows using Python, SQL, machine learning, LLM systems, analytics, dashboards, and decision-support logic.
 
 ### Research
-I explore computational approaches to scientific and technical questions, particularly where **structure, uncertainty, signals, anomalies, multimodal data, and visualisation** matter.
+I explore computational and conceptual approaches to scientific and technical questions, particularly where **structure, uncertainty, signals, anomalies, multimodal data, and visualisation** matter. I am as interested in the assumptions behind an analysis as in the patterns it reveals.
+
+### Subject-Matter Expertise & Technical Review
+Since July 2026, I have worked as a **Subject Matter Expert — AI & Data with Starweaver**, reviewing professional learning content for technical accuracy, clarity, and practical relevance. This work draws on both technical judgement and experience assessing how complex material is explained and applied.
 
 ### Technical Education
 I teach and mentor across AI, data analysis, business intelligence, data science, machine learning, Python, SQL, and generative AI. My work includes curriculum development, project-based learning, technical feedback, and assessment.
@@ -117,7 +120,18 @@ Beginning with the **Google Developer Scholarship Challenge in 2017**, I pursued
 
 That progression eventually led to an **MSc in Artificial Intelligence with First Class Honours**.
 
-My earlier academic formation also includes an **MA in Education with Merit**, an **MBA**, and a **PGCE with Qualified Teacher Status**.
+---
+
+## ✦ Academic Background
+
+My formal studies span **languages and literature, education, management, and artificial intelligence**. They reflect different stages of a continuing intellectual journey, rather than a single disciplinary track.
+
+- **MSc Artificial Intelligence — First Class Honours** · Woolf University / Udacity Institute of AI & Technology · 2026
+- **MBA — Management, Marketing & Data** · ENEB, Spain · 2025
+- **Master in AI for Business** · Universidad Isabel I · 2025
+- **MA Education — Merit** · University of Nottingham · 2014
+- **PGCE Modern Foreign Languages with Qualified Teacher Status (QTS)** · University of Wales Institute, Cardiff · 2011
+- **BA English Language & Literature (LLCE)** · Université Rennes 2 · 2002
 
 ---
 
